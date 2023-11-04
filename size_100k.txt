@@ -1,0 +1,2290 @@
+                               93
+
+  67. Example of cripples                                  93
+
+  68. Example of tipping pail                              94
+
+  69. Details of improved safety baskets                   95
+
+  70. Details of improved safety baskets                   95
+
+  71. Details of improved safety baskets                   96
+
+  72. Details of improved safety baskets                   96
+
+  73. Details of improved safety baskets                   96
+
+  74. Example of navvy’s barrow                            98
+
+  75. Example of stone bogie                               98
+
+  76. Example of hand barrows                              98
+
+  77. Example of labourer’s hod                            98
+
+  78. Example of timber trucks                             98
+
+  79. Example of sack trucks                               98
+
+  80. Example of brick crates                              99
+
+  81. Example of ashlar shears                            100
+
+  82. Example of ashlar shears                            100
+
+  83. Example of stone clips                              101
+
+  84. Method of slinging stone                            101
+
+  85. Method of slinging stone                            101
+
+  86. Method of hoisting by means of the lewis            102
+
+  87. Method of hoisting by means of the lewis            102
+
+  88. Method of hoisting by means of the lewis            102
+
+  89. Method of hoisting by means of the lewis            102
+
+  90. Example of the stone cramp                          103
+
+  91. Wire rope lashing                                   104
+
+  92. Chain and bracket lashing                           105
+
+  93. Coupling links                                      105
+
+  94. Rollers                                             106
+
+  95. Levers                                              106
+
+  96. Dog irons                                           107
+
+  97. Methods of fixing dog irons                         107
+
+  98. Methods of fixing dog irons                         107
+
+  99. Methods of fixing dog irons                         107
+
+  100. Iron bolts                                         108
+
+  101. Iron straps                                        109
+
+  102. Slaters’ truss                                     112
+
+  103. Duck runs                                          112
+
+  104. Scaffolder’s hatchet                               113
+
+  105. Manual building crane                              117
+
+  106. Example of pulley wheel                            118
+
+  107. Example of groove for pulley wheel                 119
+
+  108. Example of groove for pulley wheel                 119
+
+  109. Example of groove for pulley wheel                 119
+
+  110. Example of groove for pulley wheel                 119
+
+  111. Example of groove for pulley wheel                 119
+
+  112. Example of sprocket wheel                          119
+
+  113. Example of single movable pulley                   120
+
+  114. Example of blocks and tackle                       120
+
+  115 and 116. Example of differential pulley             122
+
+  117. The winch                                          124
+
+  118. The winch in use with a double rope                125
+
+  119. Example of a jib                                   125
+
+  120. Example of a jib for fixing purposes               126
+
+  121. Example of a mason’s jib                           127
+
+  122. Example of shear legs                              127
+
+  123. Example of shear legs to carry jib                 128
+
+  124. Example of movable shear legs                      128
+
+  125. Example of a gin                                   129
+
+  126. Method of slinging girders                         129
+
+  127. Diagram showing method of finding the centre of
+         gravity of a rectangular body                    136
+
+  128. Diagram showing method of finding the centre of
+         gravity between two combined weights             137
+
+  129. Diagram showing method of finding the centre of
+         gravity between three or more combined bodies    138
+
+  130. Method of finding the centre of gravity of a
+         rectangular surface                              139
+
+  131. Method of finding the centre of gravity of a
+         triangular surface                               141
+
+  132. Diagram showing the method of calculating the
+         breaking weights of beams                        147
+
+  133. Diagram showing the method of calculating the
+         breaking weights of beams                        147
+
+  134. Diagram showing the method of calculating the
+         breaking weights of beams                        148
+
+  135. Diagram showing the method of calculating the
+         breaking weights of beams                        148
+
+  136. Diagram showing the method of calculating the
+         breaking weights of beams                        148
+
+  137. Diagram showing the method of calculating the
+         breaking weights of beams                        148
+
+  138. Diagram suggestion for preventing accidents
+         on short ladders                                 154
+
+  139. Method of staying ladder to prevent sagging        155
+
+  140. Method of staying ladder to prevent sagging        155
+
+  141. Illustrating dangerously laid boards               156
+
+  142. Illustrating the danger of a trap                  156
+
+  143. Illustrating method of supporting centering        157
+
+  144. Illustrating  method of supporting centering       158
+
+  145. Fan guards                                         158
+
+  146. Illustrating cause of fatal accident               159
+
+
+
+
+SCAFFOLDING
+
+
+
+
+CHAPTER I
+
+_SCAFFOLDING_
+
+
+Scaffolding is the art of arranging and combining pieces of timber in
+order to enable workmen to proceed with their work, and from which, if
+required, to lift and carry the material necessary for their purpose.
+Many definitions of a scaffold have been given by authorities on
+building construction; some of the best known are as follows:—
+
+Mitchell (C. F.): 'Temporary erections constructed to support a number
+of platforms at different heights, raised for the convenience of
+workmen to enable them to get at their work and to raise the necessary
+material for the same.’
+
+Tredgold (Hurst): 'A scaffold as used in building is a temporary
+structure supporting a platform by means of which the workmen and their
+materials are brought within reach of their work.’
+
+Rivington: 'Scaffolds are temporary erections of timber supporting
+platforms close to the work, on which the workmen stand and deposit
+their materials.’
+
+Banister F. Fletcher, in 'Carpentry and Joinery’: 'A scaffold is a
+temporary structure placed alongside a building to facilitate its
+erection by supporting workmen and raising materials during the
+construction, or for the repair of buildings.’
+
+Recent cases tried under the Workmen’s Compensation Act have given a
+wider meaning to the word, and the following definition is perhaps the
+most comprehensive at the present time:
+
+A scaffold, as used in building, is a temporary arrangement of timbers
+combined and supported in various ways to enable the workmen to proceed
+with their work, and where required, to afford facilities for the
+lifting and carrying of the materials.
+
+The two principal methods of scaffolding are known respectively as the
+North and South country systems. The northern, as indicated by the
+name, was at one time in use only in Scotland and the north of England,
+but its many advantages, more especially for the transport of material,
+have now caused it to become general throughout the country.
+
+The second method is essentially the South country system, and is of
+greater use when power is not necessary for the construction of the
+building.
+
+A combination of both methods is commonly seen, and found useful in
+practice.
+
+In scaffolding, the vertical timbers are known as standards or
+uprights. The horizontal timbers between the standards are known as
+ledgers when of cylindrical section, but as transoms and runners when
+of rectangular section. Braces, shores, struts and ties of any section
+are pieces used to stiffen the structure. The putlogs, or joists as
+they are called when of greater length, carry the boards which form the
+working platform.
+
+
+=The Northern System.=—This scaffolding can be divided into two
+parts. First, the derrick staging from which the transporting power
+acts; and, second, the platforms, which bring the workmen within reach
+of their work.
+
+
+=Derrick Stagings.=—These stagings, also known as Scotch derricks
+and 'Scotchmen,’ are erected to carry the power required, usually a
+steam crane.
+
+They consist of three or four timber towers or legs supporting a
+platform upon which the crane stands. The number of legs depends upon
+the area over which the power is required to act.
+
+When one crane is to be erected, three legs are sufficient to carry the
+platform.
+
+If the building is a large one, several such stagings may be
+constructed; but in some cases two cranes are required where the size
+of the building will not allow of two stagings. In these cases the
+platform is square and supported at each angle by a leg. The cranes are
+then fixed diametrically opposite each other.
+
+In determining the position of the legs they must be placed where the
+effective range of the crane is most required, and also where they will
+cause the least possible obstruction to the progress of the building.
+The position of the tower that carries the crane, and which is known
+as the principal or king leg, is first fixed. The secondary or queen
+legs are set out from it in the form of an isosceles triangle. The
+distance between the king and queen legs depends upon the length of
+the sleepers. These run from below the engine to the lower ends of the
+guys, and average from 25 to 30 feet in length.
+
+The legs, especially the king legs, if intended to rise from the earth,
+must have a foundation of two thicknesses of 3-inch timbering laid
+crosswise. This is unnecessary if there is a concrete or other solid
+foundation.
+
+Apart from the necessity for any foundation, the standards should rise
+from a framework of balk timbers of about 12 in. by 12 in., laid on the
+ground, and halved at their intersection (fig. 1).
+
+[Illustration: FIG. 1.—ELEVATION OF STAGING FOR DERRICK CRANE]
+
+In the case of the queen legs an extra balk is placed under the
+framework, as shown in fig. 1.
+
+The legs are from 6 to 10 feet square on plan, the king legs being the
+larger. Each leg comprises four standards, either of whole timbers or
+battens bolted together. The standards for the king legs should measure
+not less than 9 in. by 9 in.; if of battens, then three pieces 9 in. by
+3 in. should be used.
+
+For the queen legs, balks 7 in. by 7 in., or three pieces 7 in. by
+2-1/2 in., are sufficient sectional area. Where battens are used they
+are given a lap equal to one-third of their full length, and are bolted
+together by 3/4-inch wrought-iron bolts.
+
+Whole timbers are used when they can be obtained in one piece of
+sufficient length.
+
+As the standards rise they are divided into bays by transoms. These are
+made out of about 9-in. by 3-in. deals, placed from about 6 to 10 feet
+apart.
+
+The bays are triangulated by cross-braces 7 in. by 2-1/2 in.; both of
+these are usually placed on the outside of the bay, but one or both
+may be placed on the inside. The first method is the better, as the
+braces, by butting against the transoms, give an increased resistance
+to movement.
+
+The king leg, having to carry the weight of the engine, requires
+greater strength. This is gained by running an extra standard up the
+centre of the leg. If it is whole timber, balks about 14 in. by 14 in.
+are required; if built up, four deals 16 in. by 4 in. are used. It
+should stand upon an extra balk laid with the horizontal framing at the
+bottom of the leg, and should rest on a solid foundation.
+
+To prevent any tendency to flexure this extra standard should be
+strutted from all four of the outer standards behind each transom (see
+fig. 2).
+
+Another method is to shore the central standard from the foundation, as
+in fig. 3.
+
+The legs in this manner can be made to support a platform up to 120
+feet in height.
+
+The required height having been reached, the legs are connected by
+trussed beams in the following manner: Two balk timbers of about 12 in.
+by 8 in. are laid immediately above each other between the king leg
+and each queen leg, resting on the two top transoms, as shown in fig.
+1. They are from 6 to 9 feet apart, the top bay being sometimes made
+slightly lower than the others.
+
+The lower balks are connected to the centre standard of the king leg by
+wrought-iron straps.
+
+[Illustration: FIG. 2.—PLAN OF KING LEG]
+
+[Illustration: A, Central Standard. B, Shorings.
+
+FIG. 3.—SHOWING SHORING TO CENTRAL STANDARD]
+
+The top balks project from 6 to 10 feet beyond the king leg, and
+are halved at their point of intersection. The projecting ends are
+connected to each other by pieces 8 in. by 6 in., and again to the
+return balk by similar pieces (see fig. 4). They are also supported by
+struts from the central standard, as shown in fig. 1. The upper and
+lower balks are connected by iron bolts about 10 feet apart, and each
+bay thus formed is cross-braced in the same manner as the legs.
+
+The iron bolts are covered by pieces of the same scantling as the
+braces.
+
+In the single derricks the queen legs can be connected by a trussed
+beam similarly formed, or by a single balk carried across and laid on
+the top transom.
+
+[Illustration: FIG. 4.—PLAN OF TOP PLATFORM PARTIALLY COVERED]
+
+If the span is considerable, struts can be carried from the queen legs
+towards the centre of the underside of the balk to prevent sagging.
+
+On the trussed beams thus formed, joists of 9 in. by 3 in. or ordinary
+poles are laid about 3 feet apart.
+
+They are laid parallel to one another, and in a direction at right
+angles to the truss or single beam forming the back support of the
+platform.
+
+The centre joists are continued to the ends of the balks which project
+beyond the king leg.
+
+The advantage of having continued the top balks can now be seen, as it
+gives greater area to the platform immediately round the engine.
+
+The boards 9 in. by 1-1/2 in. are laid at right angles to the joists.
+
+Another way of forming the platform is to cover only partially the
+surface between the legs. In this case two additional joists, 6 in.
+by 6 in., are thrown across the king leg (see fig. 4), the boards not
+extending beyond their length.
+
+When this is done, the workmen reach the platform from the
+communicating ladder which usually passes up a queen leg, by means of a
+run two boards wide. It is better to lay the larger platform, as, apart
+from the question of safety to the men, it serves as a storage for coal
+for the engine, the weight of which tends to keep the erection steady.
+Double boards should be laid under coals or other heavy stores.
+
+To reach the platform, ladders are fixed in different ways. They can
+run up inside, or be fixed to the outside of the queen legs. In either
+case they are nearly or entirely upright. A better method is shown in
+fig. 5, and should be carried out wherever possible.
+
+[Illustration: FIG. 5.—SHOWING METHOD OF FIXING LADDERS]
+
+The derrick sleepers, two in number, are of balk timber, and lie across
+the platform from beneath the engine bed to which they are connected,
+to the centre of the queen legs.
+
+The guys or stays, also of balk timbers, besides being connected to the
+mast, are attached to the sleepers over the queen legs (see fig. 1).
+
+To counteract the overturning force exerted by the jib and the material
+lifted, the guys are chained down to the timber balk at the bottom of
+the queen legs (fig. 1).
+
+This balk supports a platform which is loaded with bricks or stones
+more than equal to double the weight that will be lifted. The chain,
+which works loose with the vibration of the scaffold, is tightened by
+means of a screw coupler fixed in its length. The arrangement is as
+follows:—Two lengths of heavy chain with large links at each end are
+required. One length is carried round the sleeper and then taken down
+the centre of the leg. The other length is taken round the balk which
+is placed underneath the staging, and carried up through the load, when
+the tightening screw can be applied and the correct tension brought up.
+
+To prevent lateral motion the legs are cross-braced by poles or deals
+between each leg as shown on frontispiece. The poles are tied to the
+legs just beneath the platform and connected at their meeting point.
+When crossing they should be at right angles to each other.
+
+Deals 9 in. by 3 in. can take the place of the poles if required, bolts
+in this case being used instead of tyings.
+
+At the building of the new Post Office, Leeds, 1893, a different method
+of raising the platform for the crane was adopted. The legs, instead
+of being framed, consisted of a single balk of timber strutted on
+each side from the ground level, the sleepers and guys being firmly
+attached to the standards themselves.
+
+When erecting long ranges of buildings it may be more convenient to
+have the derrick mounted upon a travelling bogie than to dismantle the
+structure in order to re-erect at another point.
+
+Fig. 6 illustrates the system, the travelling power being usually
+manual. The arrangement is suitable for small derricks, and is employed
+where the crane is erected outside the building.
+
+[Illustration: FIG. 6.—SHOWING STAGING MOUNTED ON TRAVELLING
+BOGIE]
+
+Another method of using travelling cranes is to erect a platform as
+shown in fig. 7.
+
+The standards, which may be of balk timber or built up, as previously
+shown, are about 10 feet apart longitudinally and 20 to 30 feet
+transversely. They stand upon sills of the same section where the
+foundation is not solid. On the head of the standards, the runners are
+laid connecting all the standards in the same row.
+
+Head pieces may be fitted between the standards and runners; this
+serves to distribute pressure. All the connections are securely made by
+dog irons, bolts, and straps. The stability depends entirely upon the
+bracing, and this, it is important to note, should be between each bay
+longitudinally, and at least every second bay transversely.
+
+[Illustration: Front Elevation
+
+End Elevation
+
+FIG. 7.—ELEVATION OF DERRICK STAGING]
+
+Timbers placed as A in fig. 7 give rigidity to the standards by
+preventing flexure, and are necessary when the lengths of the uprights
+exceed 30 times their least diameter.
+
+The deals used for braces are bolted to the standards; for poles, tying
+is resorted to.
+
+
+=Working Platforms.=—The working platforms used in conjunction
+with overhead or overhand work depend upon the requirements of the
+building.
+
+By over head or hand work is meant that the material upon which the
+mechanic is to be employed reaches him from over head or hand.
+
+When no outside scaffolding is needed, the platforms are laid upon
+the floor joints in the interior of the building, being raised upon
+trestles as the work proceeds, and until the next floor is reached.
+
+Light forms of scaffolds, as the ordinary masons’ and bricklayers’ pole
+scaffolds, are now frequently used as working platforms in connection
+with the Scotch system.
+
+
+=The South Country System.=—This system is divided into two
+classes according to the strength required. For the first, square
+timbers are used; for the second, poles are employed. The scaffolds
+built of square timbers are known as gantries and stagings, and the
+pole erections are termed bricklayers’, and masons’ or independent
+scaffolds.
+
+
+=Gantries.=—The term gantry was originally given to erections
+constructed with a view to the easy carriage of heavy material, but of
+late it has also come to mean a structure arranged to support lighter
+forms of scaffolding over footpaths which have to be kept open for
+public use.
+
+[Illustration: FIG. 8.—ELEVATION OF GANTRY FOR TRAVELLER]
+
+[Illustration: FIG. 8A.—END ELEVATION OF GANTRY SHOWN IN FIG.
+8]
+
+1st. Gantries for transport of material, commonly called travellers.
+Figs. 8 and 8a show the general construction.
+
+The distance between the outer rows of standards and the wall depends
+upon circumstances. If possible, the space should be allowed for a
+cart-way, as the material can thus be brought quite close to the work
+before being lifted. If, owing to adjacent footpaths or any other
+reason, this cannot be done, the uprights should be placed close to the
+wall on either side, the material being lifted at the end of the gantry
+or other convenient spot, over which the lifting gear can be brought.
+
+The standards of square timber for the gantry are from 6 in. to 12
+in. square, and are erected upon sleepers, or, as they are sometimes
+termed, sills laid in the same direction as the run of the scaffold.
+One row of standards is placed on each side of the wall. The standards
+are placed 8 to 10 feet apart. On the top of the standards runners are
+fixed connecting each standard in the same row. Sills, standards, and
+runners should be of the same sectional area. The runners are strutted
+on their underside, from the standards by pieces of, at least, half the
+sectional area of the supported timbers. If the struts are of equal
+size to the runners, double the weight can be carried.
+
+The cleats from which the struts rise, are simply spiked to the
+standards, but if designed to carry excessive weights they are slightly
+housed in. As the space between each row of standards has to be kept
+open for the building, no cross bracing can be allowed except at the
+ends. Strutting is therefore resorted to in order to give stability.
+The struts, one to each standard, are bolted to the upright near the
+top, and again to a foot block driven into the ground. Other methods of
+fastening down the bottom ends of the struts are shown in fig. 9; the
+use of each depends upon the nature of the soil.
+
+Struts are also fixed at the ends to prevent lateral movement. Head
+pieces, or corbels, as they are sometimes termed, are occasionally
+inserted between the standards and runners, and serve to distribute
+pressure.
+
+Straining pieces spiked on the underside of the runners, for the struts
+to pitch against, are used when the standards are considerably apart.
+
+[Illustration: FIG. 9.—FOOTING BLOCKS FOR STRUTS]
+
+Rails upon which the travelling engine or traveller can move are laid
+on top of the runners, and are turned up at the ends of the platform to
+serve as buffers to the engine platform.
+
+[Illustration: End Elevation
+
+Side Elevation
+
+FIG. 10.—ELEVATION OF TRAVELLING GANTRY]
+
+The engine platform consists of two trussed beams of timber about 3
+feet apart, connected at their ends with short pieces of the same
+scantling, and fitted with grooved wheels to move upon the rails.
+Rails are also laid upon each beam and serve for the traversing motion
+of the crab. Movement of the traveller is obtained from the crab,
+which is worked either by manual or steam power, and acts through a
+system of shafting and geared wheels. Movement in three directions is
+necessary from the crab: vertically for lifting, and horizontally in
+two directions, transversely and longitudinally. Travellers are made up
+to 50 feet wide and any required length.
+
+Another method of building travellers is shown in fig. 10.
+
+In this case, the rails upon which the traveller moves in a
+longitudinal direction are fixed on sleepers on the ground level,
+and the standards and runners of the first example are not required.
+In their place is constructed a triangulated system of balk timber
+framing. The platform is fixed to the head pieces, and is braced as
+shown. Less timber is used in their construction, but owing to the
+greater weight a steam winch is required to impart motion.
+
+
+=Gantries which serve as a base for lighter forms of
+scaffolding.=—These erections are in reality elevated platforms,
+and allow of a clear way for a footpath where required. They are
+constructed of two frames, placed apart according to the width of the
+path over which the platform stands (fig. 11).
+
+The method of erection, so far as the side frames are concerned, is
+the same as for the first example of travelling gantries. Stability
+is, however, gained by cross-bracing as shown in figure, thus making
+strutting unnecessary. The platform can be laid by placing short boards
+9 in. by 3 in. across the runners when the platform is narrow. It is
+more usual, however, to place joists 10 in. by 2 in. across, and on
+these to lay the boards longitudinally. The joists average 2 to 3
+feet apart, the braces are about 2 in. by 7 in. On the outside of the
+scaffold, parallel to the sills, balk timbers are placed forming a
+'fender’ to prevent the vehicular traffic from injuring or disturbing
+the erection.
+
+[Illustration: Front Elevation
+
+End Elevation
+
+FIG 11.—GANTRY OR ELEVATED PLATFORM OVER FOOTPATHS]
+
+
+=Stagings.=—Stagings are erected in a manner similar to travelling
+gantries, but are carried more than one storey high (fig. 12). It is a
+form of scaffolding rarely seen, more especially since the introduction
+of the Scotch derrick system. The timbers are erected to the height of
+the first runner in the same manner as the frames in fig. 11. In order
+to carry the scaffold higher, horizontal pieces are laid across the
+scaffold, over the standards, and are made to project 9 or 10 feet on
+each side of the runners.
+
+On these beams, uprights, as in the first tier, are raised, being
+connected in like manner, longitudinally by transoms. The rising tiers
+of standards are strutted by timbers A A, rising from the
+projecting portion of the beam called the footing piece, which serves
+in the same manner as a footing block. The footing piece is supported by
+struts, B B, rising from the lower standards. The struts B
+B are in two pieces, being bolted to the sides of the footing
+pieces and uprights. This allows the shores A A to pass
+between them.
+
+[Illustration: Front Elevation
+
+Cross Section
+
+FIG. 12.—EXAMPLE OF STAGINGS]
+
+Strutting within the bays formed by the standards is carried out on
+each tier with the exception of the top, where braces are fixed, as
+shown at C.
+
+On the top runners rails are laid for a traveller.
+
+In constructing the foregoing square timber erection, note should be
+taken of the following points:—
+
+That the uprights of the upper tiers should stand immediately over
+those of the lower tiers, in order to prevent cross strains on the
+runners.
+
+That the timbers should fit as evenly as possible, as thereby the whole
+erection is rendered more stable.
+
+That joints between the runners should occur immediately over the
+standards.
+
+The several parts of this structure, if for temporary purposes, can
+be connected by dog irons; if for a more permanent use, by bolts and
+straps.
+
+
+POLE SCAFFOLDS
+
+
+=Bricklayers’ Scaffolds.=—A bricklayer’s scaffold consists of a
+series of upright poles or standards, to which are lashed horizontal
+poles, termed ledgers. The ledgers and the wall of the building carry
+the putlogs, on which boards are laid to support the workman, his
+material, and tools (fig. 13).
+
+The standards are first erected, and may stand singly or in pairs. In
+a repairing job, unless of great height, and where there is no great
+weight of material, single poles are sufficient.
+
+Where double poles are required, the first pair are erected of
+different lengths.
+
+The short pole is termed a puncheon. The difference of length allows of
+a lap in connecting the succeeding poles.
+
+The lap should equal half of the full-length pole. The standards are
+placed 6 to 8 feet apart, and from 4 to 6 feet away from the building.
+
+[Illustration: FIG. 13.—ELEVATION OF POLE SCAFFOLD]
+
+The butt-ends are embedded about 2 feet in the ground, which affords
+some resistance to overturning. If they cannot be embedded, they
+should be placed on end in barrels filled with earth tightly rammed.
+As the building rises additional poles are added, being lashed to the
+standards already erected.
+
+If the standard is a single pole, the second pole, having a lap of 10
+or 15 feet, stands upon a putlog placed close to the first pole for
+that purpose (fig. 14).
+
+The inner end of the putlog is securely fastened down to the scaffold
+or inserted into the building.
+
+If the standard is double, the rising pole is placed upon the top end
+of the puncheon, and afterwards others are placed on end upon the
+lowest free end of the standards already fixed.
+
+[Illustration: FIG. 14.—METHOD OF FIXING RISING STANDARD]
+
+As the standards rise, they are spliced or 'married’ together with band
+ties.
+
+At a height of 5 feet, this distance being the greatest at which a man
+can work with ease, a ledger is tied across the standards to form a
+support for the working platform.
+
+Where a single pole is insufficient in length to form a continuous
+ledger, two are joined in one of three ways.
+
+[Illustration: FIG. 15]
+
+In the first they are lapped over each other as fig. 15. This method
+gives a strong connection, but prevents the putlogs being laid evenly.
+
+[Illustration: FIG. 16]
+
+The second way provides that the ledgers shall lap horizontally side by
+side. This allows of evenness of line for the putlogs, but is not so
+strong (fig. 16).
+
+In both of these methods the lap should cover two standards, and not as
+shown in fig. 17.
+
+The third manner of connection (fig. 18) is the best. The ledgers butt
+end to end. Underneath, a short pole is placed crossing two standards.
+The tying at the standard embraces the double ledger. A band tie is run
+round the supporting pole and the ends of the ledgers where they butt.
+
+Great strength is obtained in this way and the putlogs can be evenly
+laid.
+
+Additional ledgers are fixed as the work proceeds.
+
+[Illustration: FIG. 17]
+
+On the ledgers, and at right angles to them, putlogs are laid, resting
+outwardly on the ledgers and inwardly on the wall, where header bricks
+have been left out for their reception.
+
+[Illustration: FIG. 18]
+
+The putlogs, which are placed about 3 or 4 feet apart, should be tied
+to the ledgers and fastened by wedges into the wall. This is not often
+done, but at least one putlog to every tying between standard and
+ledger should be so treated.
+
+Where the putlogs cannot be carried by the wall owing to an aperture in
+the building, such as a window, they are supported by bearers fixed as
+shown in figs. 19 and 20.
+
+[Illustration: FIG. 19]
+
+[Illustration: FIG. 20]
+
+By wedging the inner end of the putlog into the wall, some stability
+is given to the scaffold, but the connection cannot be considered
+satisfactory, as the putlog would draw under very little strain.
+Greater stability can be gained if the outer frame of the scaffold is
+supported by one of the three methods given as follows.
+
+[Illustration: FIG. 21.—SHORES AND TIES FOR DEPENDENT
+SCAFFOLDS]
+
+A shore or tie can be fixed between the erection and the ground as
+shown in fig. 21, or, if there are openings in the wall, supports can
+be fixed as ties shown in the same diagram.
+
+The ties or struts should be placed to every third or fourth standard
+at about 25 feet from the ground, and their fastenings made good.
+Additional ties should be carried within the building at a greater
+height where possible. The stability of the scaffold under loads and
+cross wind pressure, depends greatly upon the ties or shores, and their
+fastenings should be well made and kept in good order. The historical
+instance of the mechanic who, to escape a shower of rain, stood upon
+the inner board of the platform, and by leaning against the building
+pushed the scaffold over, should have no opportunity of recurrence.
+
+[Illustration: FIG. 22]
+
+To stiffen the scaffold longitudinally braces are tied on the outside
+of the scaffold in the form of a St. Andrew’s cross (see fig. 13).
+
+They start from the lower end of one standard and rise obliquely across
+the scaffold to near the top, or some distance up a standard in the
+same run. Tied at their crossing-point, connections are made to all the
+main timbers of the scaffold with which they come in contact. Braces
+are fixed in all exposed situations, and generally where the scaffold
+is more than one pole (30 feet) in height.
+
+[Illustration: FIG. 23]
+
+The only exception to effective bracing being carried out is where the
+building, being of irregular form, creates many breaks and returns in
+the scaffolding. It is obvious that where a scaffold butts against or
+breaks with a return wall, the tendency to lateral motion is lessened.
+
+The boards, which are placed longitudinally across the putlogs, can be
+laid to lap or butt at their ends. When lapping, one putlog only is
+required to carry the ends of two series of boards (fig. 22).
+
+When butting, two putlogs are required placed about 4 inches apart
+(fig. 23).
+
+The second method is the better, as the boards are not so likely to
+lose their place or to trip the workmen. If heavy work is in progress
+the boards are laid double. As the building rises, the boards are
+carried up to each successive platform, but each tied putlog is left in
+its place.
+
+[Illustration: FIG. 24.—MASONS’ SCAFFOLDS: END ELEVATION]
+
+
+=Masons’ Scaffolds.=—Masons’, or independent scaffolds differ from
+the bricklayers’ in that they have to be self-contained. Owing to the
+different material of which the building is erected, the putlogs cannot
+rest upon the wall. If openings were left for them, as in brickwork,
+the wall would be permanently disfigured, more especially when ashlar
+fronted.
+
+In order to gain the necessary support two parallel frames of standards
+and ledgers are erected along the line of wall to be built (fig. 24).
+
+They are from 4 to 5 feet apart, the inner frame being as close to
+the wall as possible. As a heavier material has to be dealt with, the
+standards are placed closer together, say from 4 to 5 feet.
+
+[Illustration: FIG. 25.—LANDING STAGES]
+
+The ledgers and braces are placed as before, the putlogs now resting on
+ledgers at each end, and not on the wall at the innermost end, as in
+the bricklayer’s scaffold.
+
+To prevent cross movement of the scaffold, an additional method of
+bracing is available in this system. An inner and outer standard are
+connected by short braces across each bay, as shown in fig. 24.
+
+This method of cross-bracing can be continued to the top of the
+scaffold, and the braces should be put in longitudinally, about 20 feet
+apart.
+
+The platforms laid on all pole-scaffolds are from 4 to 5 feet wide. It
+is usually necessary, on anything but the smallest jobs, to keep this
+width free for the workman and his material.
+
+In order, therefore, to provide a platform on which the material can be
+landed, it is convenient to erect, on the outside of the scaffold, an
+additional platform from 5 to 10 feet square (fig. 25).
+
+It is constructed of standards, ledgers, and braces, in like manner as
+the scaffold to which it is attached.
+
+The face-boards, as shown in this figure, should be fixed wherever
+material is being hoisted, to prevent any projection of the load
+catching under a ledger and upsetting.
+
+
+=Connections.=—The members of pole scaffolds are connected by
+cordage. The names of the various knots are given in Chapter V.
+
+The arranging of the various timbers used in erecting scaffolds is a
+dangerous occupation, and one requiring skill and considerable nerve on
+the part of the workmen. In the majority of cases, the timbers on the
+ground level are placed in position by manual labour only, shear legs
+being used to facilitate matters. When the scaffold rises, advantage is
+taken of any rigid member on which pulley wheels can be hung, and by
+this means the succeeding poles, &c. are raised, manual dexterity and
+strength being responsible for their final position.
+
+
+
+
+CHAPTER II
+
+_SCAFFOLDS FOR SPECIAL PURPOSES_
+
+
+When applying the given methods for scaffolding, difficulties arise
+owing to the varying designs of the buildings under construction or
+repair.
+
+It is impossible to deal with these cases in detail; they must be left
+to the scaffolder, who, while holding closely to the principles, by
+the exercise of ingenuity will make combinations and variations of the
+various systems to suit the special requirements demanded in each case.
+There are, however, certain types of scaffolding which occur with some
+regularity, and these will now be dealt with.
+
+
+=Needle Scaffolding.=—Needle scaffolding is necessary where it is
+impossible or too expensive to carry the scaffold from the ground level
+or other solid base. It is used both for repairing and new erections.
+
+The needles from which the scaffold takes its name are timbers (usually
+poles or balks) placed horizontally through and at right angles, or
+nearly so, to the wall of the building. The projections support a
+platform upon which an ordinary pole scaffold is erected (fig. 26).
+
+Windows, or other openings in the wall, are utilised where possible for
+the poles to pass through. In other cases holes have to be made in the
+walls, cut as nearly as can be to the size of the needles in use.
+
+The needles must be of sufficient scantling to carry the weight of the
+scaffold and attendant loads. The stability of the structure depends
+upon the means taken to fasten down the inner end of the needle.
+
+The usual plan is to tie it down to a convenient joist or other rigid
+member of the building itself, but the method shown on the diagram is
+better, as resistance to movement is gained both from above and below.
+
+Struts from the building below the needles to their outer end, give
+greater strength to the beam.
+
+When erecting needle scaffolding around buildings of small area, say of
+a tower or chimney shaft, the needles can be laid across the building
+in one length, piercing the wall on opposite sides. In these cases, if
+the needles are wedged in, the weight of the building and the scaffold
+itself on the opposite ends of the needles, is sufficient to maintain
+equilibrium.
+
+[Illustration: FIG. 26.—NEEDLE SCAFFOLD]
+
+The platform is formed of 9-in. by 3-in. deals, and on this is erected
+whatever scaffolding may be necessary.
+
+
+=Scaffolds for Chimney Shafts, Towers, and Steeples.=—The erection
+of chimney shafts can be carried on entirely by the aid of internal
+scaffolding. As the work rises putlogs are laid across the shaft, the
+ends being well built into the wall. On the putlogs the platform is
+laid, being carried up as the work proceeds. The putlogs may be left in
+for the time, and struck on completion. The platform is fitted in its
+centre with a hinged flap door through which the material is hoisted as
+required.
+
+There is some objection to this method of scaffolding where the wall
+is more than 1 foot 10-1/2 inches thick (which is the greatest depth
+of brickwork over which a man can reach and do finished work), for
+the mechanics, in order to reach the outside joints, have to kneel on
+the freshly laid material, which is detrimental to good workmanship.
+For this reason the system of carrying up an ordinary pole scaffold
+externally until the height is reached where the wall is reduced to 1
+foot 10-1/2 inches in thickness, is to be preferred.
+
+The walls of a chimney shaft decrease in thickness 4-1/2 inches at a
+time, forming an internal set-back of that width at every 20 feet in
+height.
+
+This set-back is of advantage to internal scaffolding when the full
+height of the brickwork is reached, and the cap has to be fixed. The
+cap or coping, when of stone or iron, does not admit of the insertion
+of putlogs. To overcome the difficulty, four or more standards are
+erected at equal distances, and standing upon the top set-back (fig.
+27).
+
+The standards project sufficiently to carry the pulley wheel well above
+the total height of the chimney, in order to give head room and to
+assist the workman in fixing the coping.
+
+To stiffen the standards, short ledgers are tied across as shown in
+fig. 27.
+
+[Illustration: PLATE II.
+
+  [_Photo by W. Cottrell_      _Hightown, Manchester._]
+
+EXTERNAL CHIMNEY SCAFFOLD.
+
+Erected for the Willesden Electric Lighting Works, under the
+supervision of E. Willis, Esq., A.M.I.C.E., etc.]
+
+When the chimney is to be erected by external scaffolding the
+ordinary mason’s or bricklayer’s scaffold is used. Owing to the small
+area of the erection the outside frames of the scaffold have a quick
+return. This makes it practically impossible for the scaffold to
+fail by breaking away from the building under the influence of the
+loads it may carry. Shoring or tying is therefore not so important.
+Wind pressures have, however, a greater effect, especially when the
+direction is not at right angles to one of the faces of the scaffold.
+If in that direction, the tied putlogs would offer resistance. Braces
+are therefore imperative, and they should be fixed at right angles
+to each other, each pair thus bracing a portion of the height of the
+scaffold equal to its width. (See plate 2.)
+
+For the repair of chimney shafts without scaffolding from the ground
+level, means have to be taken to bring, first the mechanic, and
+afterwards his material, within reach of the work.
+
+[Illustration: FIG. 27]
+
+The preliminary process of kite-flying is now rarely seen, except for
+square-topped chimneys, and even in these cases the delay that may
+arise while waiting for a suitable steady wind is a drawback to its
+practice. The kites used are about 10 feet long and 8 feet wide. They
+are held at four points by cords which continue for a distance of about
+16 feet, and then unite into one. Near this point on the single rope
+another cord is attached, which serves to manipulate the kite into
+position.
+
+Stronger ropes or chains are then pulled over the shaft, after which a
+workman ascends, and the necessary pulley wheels and timbers to form a
+regular means of ascent are sent up after him.
+
+A light line carried up in the interior of the shaft by a hot-air
+balloon is another means of communication.
+
+The most certain and safest method of ascent is to raise on the
+exterior of the shaft a series of light ladders, which are lashed to
+each other and firmly fixed to the chimney as they ascend.
+
+The ladders have parallel sides, and are used up to 22 feet in length.
+
+One method of fixing is as follows:—
+
+A ladder is placed against the shaft on its soundest side. It rests
+at its top end against a block of wood slightly longer than the width
+of the ladder, and which keeps it from 7 to 9 inches away from the
+wall. This space allows room for the workmen’s feet when climbing. The
+ladder is then fixed by two hooks of round steel driven into the wall,
+one on each side immediately under the blocks, the hooks turning in
+and clipping the sides of the ladder (fig. 28). The hooks, which have
+straight shanks of 7/8-inch diameter with wedge-shaped points, are
+driven well home, as the stability of the erection depends upon their
+holding firmly.
+
+Above the top end of the ladder a steel hook is driven into the wall
+on which a pulley block can be hung, or instead, a pin with a ring
+in its head can be so fixed. A rope from the ground level is passed
+through this block or ring, and reaches downward again for connection
+to the ladder next required. The connection is made by lashing the
+rope to the top rung and tying the end to the seventh or eighth rung
+from the bottom; this causes the ladder to rise perpendicularly. The
+steeplejack who is standing on the already fixed ladder cuts the top
+lashing as the hoisted ladder reaches him, and guides it into its place
+as it rises. When the rung to which the rope is tied reaches the pulley
+block, the ladders should overlap about 5 feet. They are at once lashed
+together at the sides, not round the rungs.
+
+[Illustration: FIG. 28]
+
+The workmen can now climb higher, driving in hooks round the sides,
+and under the rungs of the ladder alternately, lashings being made at
+each point. A wooden block is placed under the top end of the last
+ladder and fixed as before. The hoisting rope, which has been kept taut
+meanwhile, is now loosened and the process repeated.
+
+The ladders rise in this manner until the coping of the shaft is
+reached. Here, owing to the projection of the cap which throws the
+ladders out of line, it is impossible to lash the top ladder to the
+lower. To overcome the difficulty, the wall is drilled in two places
+immediately over the topmost fixed ladder, and expansion bolts are
+fitted therein. To these bolts the lower end of the top ladder is tied.
+The hoisting rope is then tightened sufficiently to hold the ladder,
+and by this means the workmen are enabled to reach the top of the shaft.
+
+A variation of this method of climbing is to replace the wooden blocks
+by iron dogs with 9-inch spikes, which should be driven well into the
+wall. Short ladders of about 10 feet in length are then used, these
+being lashed to the dogs as they rise.
+
+Another method of fixing the ladders is shown in fig. 29.
+
+[Illustration: FIG. 29]
+
+In this case eye-bolts are driven horizontally into the wall in pairs,
+rather wider apart than the width of the ladders.
+
+Iron rods hook into these and are fastened to the ladder sides by thumb
+screws.
+
+The ladders rise above each other and are connected by 3-inch sockets.
+
+When fixed, they stand about 18 inches from the wall. This is an
+advantage, as it enables the workmen to climb on the inside of the
+ladders, thus lessening the strain on the eye-bolts, and the ladder can
+more easily pass a projecting chimney cap.
+
+On the other hand, the whole weight of the ladders rests upon the
+bottom length, so that if through any cause it gave way, for instance
+under accidental concussion, the entire length would most certainly
+collapse.
+
+This danger could be avoided if the ladders were supported on brackets
+as fig. 30. No reliance should be placed upon the thumb screws, as
+they may work loose under vibration. Danger from this source would be
+avoided if the slot in which the ladder peg moved was made as shown in
+fig. 30.
+
+[Illustration: FIG. 30]
+
+The necessary repairs can be carried out by means of boats, cradles, or
+scaffolding.
+
+Cradles and boats are swung from balk timbers laid across the top of
+the shaft, or from hooks where the design of the chimney permits, as
+shown in fig. 31.
+
+The common method of fixing light scaffolds round a chimney or steeple
+is shown in fig. 32. They are most easily fixed to square or other
+flat-sided erections. The scaffolder having by means of ladders or
+boats reached the desired height, fixes a putlog by means of holdfasts
+to one of the walls. Another putlog is then fixed on the opposite side
+of the building at the same level. The two are next bolted together by
+1-inch iron bolts of the required length. The bolts are kept as near to
+the wall as possible. The process is repeated again about 6 feet higher
+on the building. The boards for the platforms are next laid. The first
+are placed at right angles to the putlogs and project sufficiently to
+carry the boards which are laid parallel to the putlogs. To prevent the
+boards rising when weight is applied at one side of the scaffold, iron
+plates bolted together (fig. 33) are fixed at the corners, and clips
+(fig. 34) connect them to the putlogs.
+
+[Illustration: FIG. 31] [Illustration: FIG. 32]
+
+[Illustration: FIG. 33]
+
+The stability of these scaffolds depends upon fixing at least two sets
+of putlogs, connected by means of stays as shown in fig. 32. Bracing
+is unnecessary if the putlogs and bolts tightly grip the building.
+When these scaffolds are used on circular chimneys, chucks have to be
+fitted on the inside of the putlogs to prevent them being drawn by the
+bolts to a curve. The chucks (fig. 35) can be fastened to the putlogs
+before they are fixed, if the curve of the building is accurately
+known. When this is not the case, the putlogs are fixed by a holdfast
+at their centre. The chucks are then placed in position, and clamped to
+the putlogs as shown in fig. 36.
+
+Additional holdfasts are then driven into the wall immediately under
+the chucks, so that the putlogs are kept level.
+
+[Illustration: FIG. 34]
+
+[Illustration: FIG. 35]
+
+The putlogs are fixed on edge, and when not exceeding 16 feet in length
+are 7 in. by 3 in. Above that length they are 9 in. by 3 in. The stays
+should be 4 in. by 2 in., and connected to the putlogs by 5/8-inch
+iron bolts. The platform is usually of three boards 11 in. by 2 in.
+
+[Illustration: FIG. 36]
+
+[Illustration: FIG. 37]
+
+Hollow towers are erected or repaired in the same manner as chimney
+shafts, except that climbing ladders are not often required. External
+or internal scaffolds may be erected. Towers being usually of larger
+area than chimney shafts, the putlogs for internal scaffolding are
+often of short poles from 6 to 8 inches diameter. Even these may
+require extra support. This is gained by carrying standards from the
+ground level or other solid foundation and tying to the putlogs. If of
+great height the standards may be unable to carry their own weight. For
+the cases where danger might be apprehended from this cause, fig. 37
+shows a system of framing, which, being supported by the set-back in
+the thickness of the wall, will carry the upper standards.
+
+Steeples are generally built by the aid of external scaffolds, which,
+as in the case of chimney shafts, should be well braced. The lower
+portion may also be repaired in this way, the standards rising from the
+ground level, or, if so designed, from the top of the tower. A series
+of needles could be arranged for the higher portions.
+
+[Illustration: FIG. 38]
+
+
+=Domes and arches.=—The scaffolding for domes and arches consists
+of a series of standards standing upon the area covered by the
+building, and connected by ledgers and braces in directions at right
+angles to each other. The platform is laid on the top ledgers.
+
+When the building is of large span square timbers are often used, balks
+for standards and runners, and half timbers for struts and braces.
+
+Fig. 38 shows a design for repairing roofs and arches where a roadway
+has to be kept below.
+
+
+=Swinging scaffolds. Painters’ boats or cradles.=—Painters’ boats
+are useful scaffolds for the repair of buildings, more especially where
+the work is light. Fig. 39 shows the general construction. They are
+suspended from jibs, fixed usually on the roof for outside work, and by
+means of blocks and falls they can be moved in a vertical direction by
+the workmen when in the boat.
+
+[Illustration: FIG. 39]
+
+The boats are fitted with guard boards and rails, and their safety,
+providing the jibs are well fixed by balancing weights, is in their
+favour. They are not self-supporting, and there is a distinct danger of
+their running down if the sustaining ropes are not securely fastened
+off. The wind causes them to sway considerably, and their use is
+confined chiefly to façade work. An improved cradle is now in general
+use, which is slung by head blocks from a wire cable running between
+two jibs (see fig. 40). By the aid of guy lines movement in this case
+can be also obtained horizontally, which removes the necessity of
+shifting the jibs or employing a greater number of boats as in the
+older method.
+
+[Illustration: FIG. 40]
+
+[Illustration: FIG. 41]
+
+Another cradle as shown in fig. 41 has advantages which cannot be
+ignored. It has steel cables with a breaking weight of 15 cwt. instead
+of fibre ropes, and the cradle is raised and lowered by means of
+gearing and a drum fixed in the gear case A. It is self-supporting,
+and therefore safer than the cradle mentioned above. The lower ends of
+the cable are fastened to the drum, and the gearing gives sufficient
+mechanical advantage for one man to raise the scaffold by turning the
+handle B. The uprights and rails are of angle steel or barrel and will
+take apart and fold.
+
+[Illustration: FIG. 42]
+
+The boatswain’s boat (see fig. 42) is useful under some circumstances,
+especially for making examinations of buildings for possible damage.
+It is dangerous and awkward to work from, and is also acted upon
+considerably by the wind.
+
+The boat is slung from a single needle. The workman has no control over
+its movement, as he has to be raised or lowered as required by men
+having charge of the other end of the fall.
+
+[Illustration: FIG. 43]
+
+[Illustration: FIG. 44]
+
+[Illustration: FIG. 45]
+
+[Illustration: FIG. 46]
+
+=Ladder scaffolds.=—A light scaffold of ladders braced, and
+connected by rails, which also serve the purpose of guard rails, is
+shown in fig. 43. The ladders, which have parallel sides, are placed
+about 2 feet away from the building. The boards forming the platform
+can be laid on the ladder rungs, or if necessary on brackets as shown
+in fig. 44. The ladders are prevented from falling away from the
+building by ties which are connected to the ladder as shown in fig. 45,
+and fastened to the window openings by extension rods as shown in fig.
+46. The same figure illustrates the method of tying in the scaffold
+when the ladders are not opposite to the windows, the rail A
+being connected to at least two ladders. The braces and guard rails are
+bored for thumb screws at one end, the other being slotted so that they
+can be adjusted as required. This form of scaffold is only suitable for
+repairing purposes, and no weight of material can be stored upon it.
+
+A light repairing scaffold lately put on the market has a platform
+which is supported and not suspended, but otherwise affords about the
+same scope to the workmen as the painters’ boats. It consists of one
+pole and a platform, the latter being levered up and down the pole as
+required by a man standing on the platform itself. The whole apparatus
+can be moved by one man standing at the bottom. It is an arrangement
+comparatively new to the English trade, but is in considerable use in
+Denmark, Germany, and Sweden.
+
+
+
+
+CHAPTER III
+
+_SHORING AND UNDERPINNING_
+
+
+Shoring is the term given to a method of temporarily supporting
+buildings by a framing of timber acting against the walls of the
+structure. If the frame consists of more than one shore, it is called a
+system; if of two or more systems, it becomes a series.
+
+The forces that tend to render a building unstable are due primarily
+to gravity, but owing to the various resistances set up by the tying
+together of the building, the force does not always exert itself
+vertically downwards.
+
+This instability may arise from various causes, the most common being
+the unequal settlement of materials in new buildings, the pulling
+down of adjoining buildings, structural alterations and defects, and
+alterations or disturbances of the adjacent ground which affect the
+foundations. The pulling down of an adjoining building would, by
+removing the corresponding resistance, allow the weight of the internal
+structure of the building to set up forces which at first would act
+in a horizontal direction outwards. Structural defects, such as an
+insufficiently tied roof truss, would have the same effect. Structural
+alterations, such as the removal of the lower portion of a wall in
+order to insert a shop front would allow a force due to gravity to act
+vertically downwards.
+
+To resist these forces, three different methods of shoring are in
+general use, and they are known as flying or horizontal shores, raking
+shores, and underpinning.
+
+
+_Flying Shores._—Where the thrusts acting upon the wall are in
+a horizontal direction, flying or raking shores are used to give
+temporary support. The most direct resistance is gained by the
+first-named, the flying or horizontal shore. There are, however, limits
+to its application, as, owing to the difficulty of obtaining sound
+timber of more than 50 to 60 feet in length, a solid body is necessary
+within that distance, from which the required purchase can be obtained.
+
+It is a method of shoring generally used where one house in a row is to
+be taken down, the timbers being erected as demolition proceeds, and
+taken down again as the new work takes its place.
+
+Fig. 47 shows a half-elevation of two general systems of construction.
+
+The framing, as at A, may be used alone where the wall to be
+supported is of moderate height and the opening narrow, but larger
+frames should be combined, as at B.
+
+The framework C is for wide openings and walls of considerable
+height.
+
+The wall plates, 9 in. by 2 in. or 9 in. by 3 in., are first fixed
+vertically on the walls by wall hooks. Then, in a line with the floors,
+rectangular holes 4 in. by 3 in. are cut in the centre of wall plates.
+Into these holes, and at least 4-1/2 inches into the brickwork, needles
+(also known as tossles and joggles) of the same size are fitted,
+leaving a projection out from the wall plate of 5 in. or 6 in.,
+sufficient to carry the shore of about 7 in. by 7 in.
+
+The shore, prior to being fixed, has nailed on its top and under sides
+straining pieces 2 inches thick, and of the same width as the shore. To
+tighten, oak folding wedges are driven at one end between the shore and
+wall plate.
+
+[Illustration: FIG. 47]
+
+To stiffen the shore, and to further equalise the given resistance
+over the defective wall, raking struts are fixed between the straining
+pieces, and cleats are nailed above and below the shore. These raking
+struts are tightened by driving wedges between their ends and the
+straining pieces.
+
+The cleats previous to, and in addition to being nailed, should be
+slightly mortised into the wall plate. This lessens the likelihood of
+the nails drawing under the pressure.
+
+
+=A Raking Shore= consists of a triangulated system of timber
+framing, and is used to support defective walls where the resistance to
+the threatened rupture has to be derived from the ground surrounding
+the building.
+
+In its simplest form a raking shore is a balk of timber of varying
+scantlings, but as a rule of square section, inclined from the ground
+to the defective wall. The angle of inclination is taken from the
+horizon, and should vary between 60 and 75 degrees. In settling this
+the space available at the foot of the wall has to be taken into
+consideration, especially in urban districts where the wall abuts on
+the footpath.
+
+[Illustration: FIG. 48]
+
+Fig. 48 shows a raking shore in its simplest form, but usually two or
+more shores are used (see fig. 49).
+
+The following table from Mr. Stock’s book[1] shows the general rule and
+also the scantlings to be used:
+
+  For walls from 15 to 30 feet high 2 shores are necessary in each system
+
+  For walls from 30 to 40 feet high 3 shores are necessary in each system
+
+  For walls from 40 feet high and upwards 4 shores are necessary in each
+  system
+
+
+[Illustration: FIG. 49.—EXAMPLE OF RAKING SHORE]
+
+Taking the angle of the shore at from 60 to 75 degrees:
+
+  For walls from 15 to 20 feet high 5 in. by 5 in. may be the scantling
+                                                     for each shore
+
+  For walls from 20 to 30 feet high 6 in. by 6 in. may be the scantling
+                                                     for each shore
+  For walls from 30 to 35 feet high 7 in. by 7 in. may be the scantling
+                                                     for each shore
+  For walls from 35 to 40 feet high 8 in. by 8 in. may be the scantling
+                                                     for each shore
+  For walls from 40 to 50 feet high 9 in. by 9 in. may be the scantling
+                                                     for each shore
+  For walls from 50 feet and upwards 12 in. by 9 in. may be the scantling
+                                                       for each shore
+
+In the greatest length, the beams are 12 in. by 9 in. to give increased
+rigidity, which prevents any likelihood of sagging.
+
+The wall plate is the first timber put into position. It is placed
+vertically down the face of the wall, and held in its position by wall
+hooks. Note should then be taken of the position of floors. If the
+floor joists run at right angles to the wall, the shore should abut on
+the wall in such position that it points directly below the wall plate
+carrying the floor joist. If the joists run parallel to the wall, the
+shore should act directly on a point representing the meeting of lines
+drawn down the centre of the wall and across the centre of the floor
+(see fig. 50).
+
+[Illustration: FIG. 50]
+
+To enable the shore to fulfil this condition, the needle (of 4 in. by 3
+in.) should be let through the plate 4-1/2 inches into the wall below
+the point in question. To strengthen the needle cleats are nailed, and
+slightly let into the plate immediately above.
+
+The footing, or sole piece, has next to be laid. It consists of a
+timber 11 in. by 3 in., and long enough to take the bottom ends of
+the required number of shores. Attention should be paid to the ground
+in which it is to be bedded, and if this is at all soft, additional
+timbers should be laid under, and at right angles with it, to give
+greater bearing.
+
+The sole piece should not be laid at right angles to the shore, but
+its face should form, with the outside line of the top shore, an angle
+somewhat wider, say of 93 degrees. The advantage of this will be seen
+presently.
+
+The shore itself has now to be prepared. Its top end should be grooved
+sufficiently (fig. 51) to receive the needle. This will prevent lateral
+motion when under pressure.
+
+[Illustration: FIG. 51]
+
+The bottom end should be slightly slotted, in order to receive the end
+of a crowbar (see fig. 52).
+
+It is now placed in position, and gently tightened up by the leverage
+of a crowbar acting in the slot, and using the sole piece as a fulcrum.
+
+The advantage of the sole piece not being at right angles to the shore
+can now be seen, as if it were so laid no tightening could be gained
+by the leverage. This system is an improvement upon the tightening up
+by wedges, as the structure is not jarred in any manner. If the frame
+is to have more than one shore, they are erected in the same manner,
+the bottom shore being the first put up, the others succeeding in their
+turn. When in position the shores are dogged to the sole piece and a
+cleat is nailed down on the outer side of the system. The bottom ends
+are then bound together by hoop iron just above the ground level. To
+prevent the shores sagging, struts are fixed as shown on fig. 49.
+
+[Illustration: FIG. 52]
+
+Besides preventing the sagging these struts serve the purpose of
+keeping the shores in position. They may be fixed as nearly at right
+angles to the shores as possible, or at right angles to the wall; in
+any case they should reach to the wall plate at a point just below the
+needle. The struts should be nailed to the shores and wall plate. If
+the latter is wider than the shores, it should be cut to receive the
+struts.
+
+It sometimes occurs that the timbers are of insufficient length to
+reach from the sole piece to wall plate. To overcome this difficulty,
+a short timber is laid on the sole piece against and parallel to the
+next middle raker, and on this short timber a rider shore stands
+reaching to its position on the wall plate (see fig. 49).
+
+When this is done the top middle raker should be stiffer to resist the
+increased cross strain. Stiffness is gained by increasing the depth. A
+rider shore is tightened by oak folding wedges driven between the foot
+of the shore and the short timber which supports it.
+
+Note must be taken that the outer raker is not carried too near the top
+of the building, or else the upward thrust of the shores, which always
+exists with raking shores, might force the bond or joints.
+
+Fir is the best wood for shoring owing to the ease with which it can
+be obtained in good length. Another advantage is its straightness of
+fibre; although, as it is more easily crushed by pressure across the
+grain, it does not answer so well as oak for wedges, sole pieces, &c.
+
+In erecting flying or raking shores, notice should be taken of the
+following points.
+
+The systems should be placed from 12 to 15 feet apart if on a wall
+without openings, otherwise on the piers between the openings.
+
+In very defective walls it is an advantage to use lighter scantlings,
+the systems being placed closer together. Heavy timbers handled
+carelessly may precipitate the collapse which it is the intention to
+avoid.
+
+Wedge driving and tightening should be done as gently as possible. It
+should be remembered that support only is to be given, and not new
+thrusts set up, which may result in more harm than good.
+
+
+=Underpinning.=—Underpinning is necessary to carry the upper
+part of a wall, while the lower part is removed; for instance, the
+insertion of a shop front, or the repairing of a foundation. It is only
+kept in position until a permanent resistance to the load is effected.
+Underpinning is, as a rule, unnecessary when the opening to be made
+is of less width than five feet. This method of shoring is a simple
+operation, but yet requires great care in its execution.
+
+The first thing to be done is to remove from the wall all its attendant
+loads. This is accomplished by strutting from the foundation floor
+upwards from floor to floor until the roof is reached (see fig. 53).
+
+Header and sole plates 9 in. by 2 in. are put in at right angles to the
+joists in order to give bearing to the struts.
+
+The portion of the wall to be taken down having been marked out, small
+openings are made, slightly above the proposed removal, at from 5 to 7
+feet apart, and through these, at right angles to the face of the wall
+itself, steel joists or balk timbers 13 in. by 13 in., called needles,
+are placed. These are supported at each end by vertical timbers 13 in.
+by 13 in., called dead shores, which again rest upon sleepers.
+
+The sleepers serve as a bed to the dead shores to which they are
+dogged, and by distributing the weight over a larger area, they prevent
+the dead shores sinking under the pressure. The dead shores, if well
+braced, may be of smaller scantling.
+
+Where it is impossible to arrange for the dead shores to be in one
+length, the lower pieces are first fixed. They must be of uniform
+length, and across their top end a transom is carried to support the
+upper pieces, the bottom ends of which must stand directly over the top
+ends of the lower pieces (see fig. 53).
+
+Having placed all the timbers in position, and before the tightening up
+takes place, the windows or other openings in the wall are strutted
+to prevent any twisting which may take place. This is done as shown on
+fig. 54, but small windows do not require the centering.
+
+[Illustration: FIG. 53.—EXAMPLE OF UNDERPINNING]
+
+The tightening up is caused by the driving home of oak folding
+wedges placed in the joints between the needles and the dead shores.
+This position is better than between the shore and sleeper, as any
+inequality of driving here would have the tendency to throw the shore
+out of the perpendicular. For a similar reason the wedges should be
+driven in the same line as the run of the needle, as cross driving, if
+unequal, would cause the needle to present an inclined surface to the
+wall to be carried.
+
+[Illustration: FIG. 54]
+
+In carrying out these operations note should be taken of the following
+points:—
+
+1. That the dead shores should not stand over cellars or such places.
+It is better to continue the needle to such a length that solid ground
+is reached, and the needle can then be strutted from the dead shore.
+
+2. That extra needles should be placed under chimney breasts, should
+there be any in the wall which is to be supported. The same applies
+where corbels, piers, &c. occur.
+
+3. Sleepers and shores should be so placed that they do not interfere
+with the proper construction of the new foundations or portions of the
+building.
+
+4. The inside shores should be carried freely through the floors until
+a solid foundation is reached.
+
+5. The removal of the shores after the alterations have been made is
+one requiring great care. It should be remembered, that while the work
+is new it cannot offer its greatest resistance to its intended load.
+Time should therefore be given for the work to well set, and then
+the timbers, eased gradually by the wedges being loosened, should be
+finally taken out.
+
+6. The raking shores, if used in conjunction with underpinning, should
+be left to the last.
+
+
+
+
+CHAPTER IV
+
+_TIMBER_
+
+
+=Classification and Structure.=—A short study of the
+classification and structure of wood will be useful, as it will enable
+the scaffolder to use material free from the inherent defects of its
+growth.
+
+The trees used by the scaffolder are known as the exogens or
+outward-growing trees.
+
+The cross section of an exogenous tree shows, upon examination, that
+the wood can be divided into several parts. Near the centre will
+be seen the pith or medulla, from which radiate what are known as
+the medullary rays. These in the pine woods are often found full of
+resinous matter.
+
+Next will be noted the annual rings forming concentric circles round
+the pith. They are so called because in temperate climates a new ring
+is added every year by the rising and falling of the sap. As the tree
+ages, the first-laid rings harden and become what is known as duramen
+or heartwood. The later rings are known as alburnum or sapwood. The
+distinction between the two is in most trees easily recognised, the
+sapwood being lighter and softer than the heartwood, which is the
+stronger and more lasting. The bark forms the outer covering of the
+tree.
+
+
+=Defects in the living tree.=—Shakes or splits in the interior of
+the wood are the most common defects in the living tree, and are known
+as _star_ or _radial_ and _cup_ or _ring shakes_.
+The cause of these defects is imperfectly understood. They are rarely
+found in small trees, say those of under 10 inches diameter. Stevenson,
+in his book on wood, puts forward the following reason, which, up to
+now, has not been refuted by any practical writer. 'In the spring, when
+the sap rises, the sapwood expands under its influence and describes
+a larger circle than in winter. The heartwood, being dead to this
+influence, resists, and the two eventually part company, a cup or ring
+shake being the result’ (see fig. 55, where the cup shake is shown in
+its commonest form).
+
+[Illustration: FIG. 55]
+
+[Illustration: FIG. 56]
+
+The star or radial shake is a variant of the same defect. In this case
+the cohesion between the sapwood and the heartwood is greater than the
+expansive forces can overcome, the result being that the heartwood
+breaks up into sections as shown in fig. 56.
+
+The star shake may have two or more arms. More than one cup shake, and
+sometimes both cup and star shakes are found in a single tree. The
+radial shake is probably the most common.
+
+The branches suffer in this respect in like manner as the trunk, the
+same shakes being noticeable throughout
+
+The development of these defects is the forerunner of further decay in
+the tree, giving, as they do, special facilities for the introduction
+of various fungi, more especially that form of disease known as the
+rot. Wet rot is found in the living tree and occurs where the timber
+has become saturated by rain.
+
+Other authorities believe that these defects are caused by severe
+frost, and their idea receives support from the fact that in timber
+from warmer climates this fault is less often seen. This may be so for
+the reason that it would not pay traders to ship inferior timber from a
+great distance.
+
+_Loose hearts_: in the less resinous woods, as those from the
+White Sea, the pith or medulla gradually dries and detaches itself,
+becoming what is known as a loose heart. In the more resinous woods,
+such as the Baltic and Memel, this defect is rare.
+
+_Rind galls_ are caused by the imperfect lopping of the branches,
+and show as curved swellings under the bark.
+
+_Upsets_ are the result of a well-defined injury to the fibres
+caused by crushing during the growth. This defect is most noticeable in
+hard woods.
+
+It will be of no practical use to follow the living tree further in its
+steady progress towards decay, but take it when in its prime, and study
+the processes which fit it for the purpose of scaffolding.
+
+
+=Felling.=—The best time to fell timber, according to Tredgold,
+is mid-winter, as the vegetative powers of the tree are then at rest,
+the result being that the sapwood is harder and more durable; the
+fermentable matters which tend to decay having been used up in the
+yearly vegetation. Evelyn, in his 'Silva,’ states that: 'To make
+excellent boards and planks it is the advice of some, that you should
+bark your trees in a fit season, and so let them stand naked a full
+year before felling.’ It is questionable if this is true of all trees,
+but it is often done in the case of the oak. The consensus of opinion
+is that trees should be felled in the winter, during the months of
+December, January and February, or if in summer, during July. Winter
+felling is probably the better, as the timber, drying more slowly,
+seasons better.
+
+The spruce from Norway and the northern fir are generally cut when
+between 70 and 100 years old. When required for poles, spruce is cut
+earlier, it having the advantage of being equally durable at all ages.
+Ash, larch and elm are cut when between 50 and 100 years old.
+
+
+=Conversion.=—By this is meant cutting the log to form balks,
+planks, deals, &c. It is generally carried out before shipment. A log
+is the trunk (sometimes called the stem or bole) of a tree with the
+branches cut off.
+
+A balk is a log squared. Masts are the straight trunks of trees with a
+circumference of more than 24 inches. When of less circumference they
+are called poles.
+
+According to size, timbers are classed as follow:—
+
+  Balks              12 in. by 12  inches to 18 in. by 18  inches
+  Whole timber        9 in. by  9  inches to 15 in. by 15  inches
+  Half timber         9 in. by  4½ inches to 18 in. by  9  inches
+  Quartering          2 in. by  2  inches to  6 in. by  6  inches
+  Planks             11 in. to  18 inches  by 3 in. to  6  inches
+  Deals                         9  inches  by 2 in. to  4½ inches
+  Battens             4½ in. to 7  inches  by ¾ in. to  3  inches
+
+When of equal sides they are termed die square. In conversion the pith
+should be avoided, as it is liable to dry rot.
+
+When the logs are to be converted to whole timbers for use in that
+size, consideration has to be given as to whether the stiffest or the
+strongest balk is required. The stiffest beam is that which gives most
+resistance to deflection or bending. The strongest beam is that which
+resists the greatest breaking strain. The determination of either can
+be made by graphic methods.
+
+[Illustration: FIG. 57]
+
+To cut the stiffest rectangular beam out of a log, divide the diameter
+of the cross section into four parts (see fig. 57). From each outside
+point, A and B, at right angles to and on different
+sides of the diameter, draw a line to the outer edge of the log. The
+four points thus gained on the circumferential edge, C,
+D, E, F, if joined together, will give the
+stiffest possible rectangular beam that can be gained from the log.
+
+[Illustration: FIG. 58]
+
+To cut the strongest beam:—In this case the diameter is divided into
+three parts. From the two points A and B thus marked
+again carry the lines to the outer edge as before. Join the four points
+C, D, E, F, together, and the
+outline of the strongest possible rectangular beam will result (see
+fig. 58).
+
+Boards—a term which embraces planks, deals, and battens—should be cut
+out of the log in such a manner that the annual rings run parallel to
+the width of the board. This method of conversion allows the knots,
+which are a source of weakness, to pass directly through the board, as
+A, fig. 59, and not run transversely across as other sections
+(B) allow.
+
+[Illustration: FIG. 59]
+
+
+=Seasoning.=—Poles and scantlings, after conversion, are next
+prepared for seasoning.
+
+The drying yard, where the timbers are seasoned, should give protection
+from the sun and high winds, although a free current of air should be
+allowed. It should be remembered that rapid drying tends to warping and
+twisting of the timbers.
+
+The ground on which the timbers are stacked should be drained and kept
+dry.
+
+The method of stacking is as follows: The timbers are laid upon
+supports a few inches above the ground at sufficient intervals to allow
+of a free circulation of air between them, and on these others are laid
+at right angles. It is usual to put long strips of wood about ¾ inch
+square between each row to prevent the timbers touching, as, after a
+shower, the timbers cannot dry for a long time if one is resting on the
+other.
+
+Planks, deals, &c. can be stacked by laying them in one direction
+throughout, provided that the space which is left between the boards
+occurs in one layer immediately over the centre of the boards beneath
+(see fig. 60).
+
+In many cases very little drying takes place before shipment, but the
+same methods of stacking should be observed whenever it takes place.
+
+Stacking poles by placing them on end is not recommended, as they may
+warp from insufficient support. This point is more important when the
+poles are required for ladder sides.
+
+[Illustration: FIG. 60]
+
+Timber may be considered to be sufficiently seasoned for rough work
+when it has lost one-fifth of its weight by evaporation.
+
+[Illustration: FIG. 61]
+
+The poles from St. Petersburg have a narrow strip of bark removed in
+four equidistant longitudinal lines throughout their entire length.
+This treatment assists drying, and tends to prevent dry rot.
+
+Weather shakes sometimes form on the outside of the wood while
+seasoning (see fig. 61).
+
+They arise owing to the sapwood contracting more when drying than the
+heartwood. Unless they extend to a considerable depth they do not
+affect the quality of the wood. Balk timbers, where the sapwood is
+uncut, and whole timbers principally suffer in this manner.
+
+_Water seasoning_—that is, having the timbers completely immersed
+in water for a short time before drying. This is a common practice. It
+is frequently carried out at the docks, where the balks may be seen
+floating about on the surface of the water. This is a bad method, as
+the wood is at the same time under the influence of water, sun and air.
+
+Water seasoning may make the wood more suitable for some purposes, but
+Duhamel, while admitting its merits, says: 'Where strength is required
+it ought not to be put in water.’
+
+
+=Description.=—Pine or northern fir (_Pinus sylvestris_) is
+light and stiff, and is good for poles and scaffolding purposes, but
+only the commonest of the Swedish growths are used for this purpose.
+The hardest comes from the coldest districts. It has large red knots
+fairly regularly placed, inclined to be soft, and starting at acute
+angles. It grows chiefly in Northern Europe.
+
+White spruce or white fir (_Abies excelsa_).—The knots are small
+and irregularly placed, are dark in colour, and start at an obtuse
+angle, showing an absence of clean wood. It is used principally for
+scaffold poles and ladder sides. It will snap under live loads, and is
+not so strong as pine. It also chiefly grows in Northern Europe.
+
+Larch (genus _Larix_) is imported from Northern Europe and
+America. It is yellow in colour, tough, and is suitable for poles,
+very durable, free from knots, but warps easily.
+
+Elm (genus _Ulmus_) grows in the British Isles. The colour varies
+from the reddish-brown of the heartwood to yellowish white of the
+sapwood. It bears considerable pressure across the grain, and is most
+useful in balks, as it is liable to warp when in smaller sizes. Is
+suitable where bolts and nails have to be used.
+
+Birch (_Betula alba_).—Light brown in colour, hard, even grain,
+which enables it to be easily and readily split in the direction of its
+length. It is not considered durable. It is used chiefly for putlogs.
+Is exported from Europe and America.
+
+Ash (_Fraxinus excelsior_).—Very light brown in colour, extremely
+tough, and makes excellent rungs for ladders. It is found in Europe.
+
+Oak (genus _Quercus_), also known as the common British oak, is a
+native of all parts of Europe, from Sweden to the Mediterranean. The
+wood has often a reddish tinge; and the grain is fairly straight, and
+splits easily. It is generally free from knots, and is most suitable
+where a stiff, straight-grained wood is desirable. It also offers
+considerable resistance to pressure across the grain.
+
+
+=Selection.=—The importation of scaffolding timber commences in
+March. In June the Russian timbers are on the market, and the arrivals
+continue until October.
+
+Poles are selected from spruce, pine, and larch trees. Balk timbers are
+of elm and fir and spruce. The putlogs are from the birch.
+
+Poles are known in two qualities—'prime’ and 'brack.’ These terms refer
+to their straightness of grain, freedom from knots, regularity of
+taper, which should be slight, and condition as to seasoning.
+
+Buyers take them usually unbarked, as they rise from the stack, and
+sort them afterwards for their different purposes.
+
+As soon as possible the bark should be removed, as it holds the water
+and insects, and encourages the growth of a white fungus which is the
+precursor of dry rot.
+
+The St. Petersburg poles are the most generally used for scaffolding.
+They are weaker than the Christiania poles, breaking shorter under
+cross strains, are whiter in colour, have a smoother bark, are
+straighter in grain, and therefore make better ladder sides.
+
+Christiania poles are more yellow in colour, and break longer under a
+cross strain than other poles. They are only to be obtained early in
+the year, and are soon bought up when on the market.
+
+To test a pole remove the bark, then prise across the grain with a
+penknife. If the fibres break up short and brown, the pole is decayed
+and useless.
+
+To test a pole for any local weakness lift one end, leaving the other
+on the ground. Two or three sharp jerks will cause undue bending at any
+spot that may be seriously defective.
+
+Balk timbers ring, if in a sound condition, when struck with a hammer.
+A fresh-cut surface should be firm, shining, and somewhat translucent.
+A dull, chalky, or woolly appearance is a sign of bad timber.
+
+Poles, unlike most converted timbers, are not branded. Those known as
+_prime_ should certainly be used for scaffolding purposes. The
+brack are rough and irregular in growth.
+
+Balk timbers and smaller scantlings are, in the finest qualities,
+branded, the different countries from which they are exported being
+Russia, Norway and Sweden.
+
+Russian woods are generally hammer branded, no colour being used.
+
+Norwegian woods are marked a blue colour, and Swedish wood a red colour.
+
+Straight-grained timber should be chosen. Twisting, which may occur
+to the extent of 45°, is not so apparent in young trees. The beam is
+thereby weakened as regards tension and compression.
+
+Large knots should be avoided. They weaken the beam for tension and
+cross strains, but serve good purpose when in compression.
+
+Sap in the wood is denoted by a blue stain, and betokens inferiority
+as to strength and lasting qualities. This blueness is more noticeable
+when the wood is wet. It must not be confounded with dark weather
+stains.
+
+
+=The Decay of Timber.=—Timber exposed to the constant changes of
+weather tends to decay early. It has been noticed that wood when dried
+after being exposed to dampness not only lost the moisture it had
+absorbed, but also part of its substance. This loss occurs in a greater
+degree when these changes take place a second time. It is therefore
+apparent that scaffolding timber, exposed as it is to the vicissitudes
+of the weather, without any protection such as would be gained by
+painting, will soon from this cause show signs of decay.
+
+Quicklime, when wet, has also a most destructive effect upon timber;
+the lime, by abstracting carbon, helping the decomposition materially.
+Scaffold boards suffer most in this respect from contact with fresh
+mortar, the lime in which has not had time to become mild.
+
+From a similar cause, the ends of putlogs which are inserted in a
+newly built wall, as when used in a bricklayer’s scaffold, tend to
+decay rapidly.
+
+Scaffolding poles, when used as standards, have an increased tendency
+to decay at their butt ends, owing to their being imbedded in the
+ground to a distance of two or three feet.
+
+The presence of sap in improperly seasoned wood is also conducive to
+early decay.
+
+
+=Preservation of Timber.=—Scaffolding timber being comparatively
+cheap has little attention paid to it in regard to preservation.
+
+When out of use the poles should be stacked, and a free current of air
+around each ensured, not laid carelessly on the ground, which is too
+frequently the case. The same remarks apply to the care of boards.
+Nails which have been driven into the timber should, after use, be
+carefully drawn. When left in the wood they rust, and set up a new
+source of decay.
+
+As before noted, the butt ends of standards tend to decay early. A
+fairly effective method of preventing this is to bore the butt end
+upwards to a distance of about 2 feet. The bore, which should be about
+1/2 inch in diameter, should then be filled with pitch and plugged. The
+pitch will find its way by capillarity into the pores of the wood and
+tend to keep the dampness out. Coating the outsides of the butts with
+pitch is also useful, and a combination of the two would no doubt be
+effectual; this is especially recommended where the standards have to
+remain in one place for a long time.
+
+Ladders and fittings that are expensive are generally painted.
+
+
+=The Durability of Wood.=—In Young’s 'Annals of Agriculture’ it is
+stated that experiments were made on some 1½-inch planks of 30 to 45
+years’ growth. They were placed in the weather for ten years, and then
+examined, with the following result:
+
+  Larch—heart sound, sapwood decayed.
+  Spruce fir—sound.
+  Scotch fir—much decayed.
+  Birch—quite rotten.
+
+This experiment, while useful to show the natural resistance of the
+wood to the weather, does not take into account the effect of wear and
+tear.
+
+It is almost impossible, in fact, to arrive at any data from which the
+life of scaffolding timbers can be gauged; but, roughly speaking, poles
+may be expected to last from six to ten years according to the care
+exercised. Balk timbers, being usually cut up after a time for other
+purposes, have only a short life on a scaffold, and therefore seldom
+decay while in use.
+
+[Illustration: FIG. 62]
+
+
+=The Use of Scaffolding Timber.=—Poles vary up to 40 and 50
+feet in length and up to 8 inches in diameter at the butt end. As
+decay, which usually commences at this end, sets in, the poles can be
+shortened and made into sound puncheons or splicing pieces for the
+ledgers. Balks are used up to 50 or 60 feet in length; and their period
+of service on a scaffold is often an interval during which they become
+well seasoned and suitable for other requirements. Putlogs are about 6
+feet in length and 4 inches square in cross section, tapering sharply
+to 2-1/2 by 3-1/2 inches at the ends where required for insertion in
+the wall. Being of square section they are not liable to roll on the
+ledgers. They should be split, not sawn, in the direction of their
+length. The fibres are thus uncut and absorb moisture less easily.
+This procedure it is found increases their durability. When treated in
+this manner they are also stronger, as the fibres, being continuous,
+give greater resistance to a load, the strength not depending wholly
+on the lateral adhesion, but also upon the longitudinal cohesion. When
+partly decayed they can be shortened and make good struts for timbering
+excavations.
+
+The boards are usually from 7 in. to 9 in. wide and 1½ in. to 2 in.
+thick. Their length averages up to 14 feet. The ends are sawn as fig.
+62 and strapped with iron to prevent splitting. When decayed they are a
+source of danger for which there is only one remedy—smash them up.
+
+
+
+
+CHAPTER V
+
+_CORDAGE AND KNOTS_
+
+
+The fibres used for the ropes and cords for scaffolding purposes are of
+jute and hemp. The strongest rope is made of the latter variety, and
+the best quality is termed the Manilla.
+
+The cords are generally tarred for preservation, but this process has a
+bad effect upon the strength of the fibre, more especially if the tar
+is impure. The process of tarring is as follows:—
+
+The fibres before they are formed into strands are passed through a
+bath of hot tar. Immediately afterwards, and while still hot, the
+material is squeezed through nippers, by which means any surplus tar is
+removed.
+
+The ropes, as used in scaffolding, are known as shroud laid or three
+strand.
+
+A shroud-laid rope consists of three strands wound round a core, each
+containing a sufficient number of fibres to make an equal thickness. A
+three-strand rope is similar, but has no core.
+
+The following gives the breaking weights of scaffold cords and falls
+according to circumference[2]:—
+
+                            Size                       Cwts.  qrs.  lbs.
+  Tarred hemp scaffold   }  {2  inches in circumference  20     0     0
+  Cords                  }  {2¼ inches in circumference  25     0     0
+  Tarred jute scaffold   }  {2  inches in circumference  14     0     0
+  Cords                  }  {2¼ inches in circumference  18     0     0
+  White Manilla scaffold }  {2  inches in circumference  32     0     0
+  Cord                   }  {2¼ inches in circumference  39     0     0
+                            {2½ inches in circumference  44     0     0
+  White Manilla rope for }  {3  inches in circumference  70     0     0
+  pulleys and block ropes}  {3½ inches in circumference  98     0     0
+                            {4  inches in circumference 126     0     0
+                            {4½ inches in circumference 158     0     0
+
+It should be noted that all these weights are the actual breaking
+strains of the ropes tested to destruction. In practice, one sixth
+of the breaking weights only should be allowed, in order to leave a
+sufficient margin for safety.
+
+The strength of a rope is the combined strength of each separate yarn.
+Therefore, if the fibres are not carefully twisted together, so that
+each bears an equal strain, the rope is unsafe. Care should be taken
+when choosing a rope that the strands are closely, evenly and smoothly
+laid.
+
+The rope is strongest when the fibres are at an angle of 45 degrees
+to the run of the rope. When at a greater angle than this, the fibres
+are apt to break, and when at a less angle, the friction between the
+parts—upon which the strength of a rope greatly depends—is lessened.
+
+The durability of tarred ropes is greater than when untarred, but not
+to such an extent if kept dry.
+
+A splice weakens a rope about one eighth.
+
+Ropes are adulterated by the admixture of rubbish fibre termed 'batch.’
+To test a rope as to condition, untwist it and notice whether any short
+ends break upwards. If so, or if the tarring has decayed internally,
+the rope must be viewed with suspicion.
+
+Hemp ropes, after four to six months’ wear, are often one fourth weaker
+than new ones.
+
+Scaffold cords are from 15 to 18 feet in length.
+
+Moisture will cause a shrinkage of 6 inches in an 18-foot cord.
+
+A good hemp rope is more reliable than an iron chain, as the latter
+sometimes snaps on surgeing.
+
+The following diagrams show the various knots used in scaffolding,
+both in the erection of the scaffold and for attaching materials to a
+hoist. They are shown in a loose condition as being more useful for
+study by a pupil. Several knots are, however, too intricate to explain
+by diagram, and in these cases an attempt has been made, with but scant
+success, to instruct as to their method of creation in the notes. It
+will, however, be found by the student that half an hour with an expert
+scaffolder, preferably an old sailor, will afford more instruction than
+hours spent in studying diagrams.
+
+The art of knot making is governed by three principles. First, a knot
+must be made quickly. Secondly, it must not jam, as this prevents it
+being undone easily. Lastly, under strain, it should break before
+slipping.
+
+[Illustration: PLATE III.]
+
+=Plate III.=—No. 1. _Overhand or thumb knot._ Prevents the
+end of a rope opening out or passing through the sheaves of a block.
+
+No. 2. _Figure of eight knot._ Used as No. 1.
+
+No. 3. _Square or reef knot._ Will sometimes jam with small ropes.
+
+No. 4. The knot we all make until we learn better, known as the granny,
+and will both slip and jam.
+
+No. 5. _The bend or weaver’s knot_, used for joining ropes
+together or securing a rope through an eye splice.
+
+No. 6. _Wolding stick hitch_, is serviceable only in connection
+with a pole used as a lever.
+
+No. 7. _Bale sling_, for hanging on to hook of lifting tackle.
+
+No. 8. _Magnus hitch, or rolling hitch_, for lifting material.
+
+No. 9. _Two half hitches, or builder’s knot, or clove hitch._ Used
+for tying ledgers to standards.
+
+No. 10. _Loop knot_, used where ends of rope are not available.
+
+No. 11. _Loop knot_, used where ends of pole are not available.
+
+No. 12. _Boat knot._
+
+No. 13. _Sheepshank, or dogshank_, a method of shortening a rope
+without cutting it or reducing its strength.
+
+[Illustration: PLATE IV.]
+
+=Plate IV.=—No. 14. _Blackwall hitch_, very powerful, but
+requires watching or may slip.
+
+No. 15. _Midshipman’s hitch_, used as shown with a rounded hook.
+
+No. 16. _Catspaw_ is an endless loop, and is used where great
+power is required.
+
+No. 17. _Capstan knot, or bowline._ After tightening it will not
+slip.
+
+No. 18. _Timber hitch_, for carrying scaffold poles. Take one turn
+round the pole and standing part, and finish with jamming turns.
+
+No. 19. _Artificer’s knot_, or half hitch and overhand.
+
+No. 20. _Topsail halliard bend_, used as a timber hitch.
+
+No. 21. _Bowline on a bight._ A board across the loops makes a
+useful seat.
+
+No. 22. _Racking or nippering_ is a method of temporarily joining
+two ropes for lengthening purposes. The ends are laid side by side for
+about 18 inches, and the marline or spunyarn is taken for about a dozen
+turns round both, then by round turns over all and fastened with a reef
+knot.
+
+Nos. 23 and 24. _Round seizing._ With a slip knot at the end of
+the spunyarn take a turn round the ropes to be nipped together. This
+turn should be pulled tight, and continued for about a dozen turns
+(No. 22); then take the end through the last turn, and take turns over
+the first laid, finishing by carrying the spunyarn two or three times
+between the rope and the seizing. Knot the end by jamming turns,
+keeping the whole well taut (No. 24).
+
+[Illustration: PLATE V.]
+
+=Plate V.=—No. 25. _Butt or barrel sling_ when placed
+horizontally.
+
+No. 26. _Butt or barrel sling_ when placed vertically.
+
+No. 27. _Double overhand knot._
+
+No. 28. _Running bowline._
+
+Nos. 29 and 30. _Band tie, marrying or splicing._ Commence as No.
+29, and after continuing the turns until near the end of the rope, take
+the rope twice between the poles and round the turns first laid, and
+finish with jamming turns. Tighten with a wedge.
+
+Nos. 31, 32 and 33. _Tying between standard and ledger._ Commence
+with two half hitches as No. 31. Then twist ropes together as far as
+they will go, and place ledger in position above the hitches (No. 32).
+The twisted ropes are then drawn up in the front of the ledger to the
+left of the standard, taken round the back of the standard, brought
+again to the front and round ledger at the right of the standard, then
+cross in front of the standard and round the ledger at the left of the
+standard, and brought up and carried round the back of the standard.
+This process is repeated until the end of the rope is nearly reached,
+when it is given two or three turns round the ledger and fastened off
+with jamming turns (No. 33). To tighten, drive a wedge at back of
+standard.
+
+[Illustration: PLATE VI.]
+
+=Plate VI.=—No. 34. _Portuguese knot_ for shear legs, made by
+several turns of the rope round the poles, and interlaced at the ends.
+
+No. 35. _Running bow knot_—inferior to No. 28.
+
+No. 36. _Bowline_—inferior to No. 17.
+
+No. 37. _Double bend_—useful where a small rope  is bent on to a
+larger. The end of the rope is given one extra turn round the bight of
+the other, with the consequence of a great increase of strength.
+
+No. 38. _Fisherman’s knot._
+
+No. 39. _Lark’s head_, fastened to a running knot.
+
+No. 40. Where increased strength is required a small rope can be
+attached to a larger one by means of a rolling hitch. The whole
+arrangement comes apart as soon as the strain is removed.
+
+No. 41. A method of lifting scaffold poles in a vertical position by
+the use of the timber hitch and half hitch. If it is required to free
+the upper end while the pole is being carried, the half hitch can be
+replaced by a cord tied round the pole and the lifting rope.
+
+
+
+
+CHAPTER VI
+
+_SCAFFOLDING ACCESSORIES AND THEIR USE_
+
+
+=Ladders.=—A ladder consists of a pair of sides connected by a
+series of oak or ash treads or rungs. The sides of long ladders are
+formed by cutting lengthwise a straight fir pole into two pieces. Short
+ladders are made with square sides, but they are heavier and, as the
+grain seldom runs continuously throughout their length, also weaker.
+
+The pole for the sides is selected for its straightness of fibre, for a
+twisted pole cannot be sawn lengthwise without cutting across part of
+the grain, which as before stated is a source of weakness.
+
+The pole has to be bored for the rungs, and this may be done either
+before or after it has been cut lengthwise. It is better to bore first,
+as then the holes occur at coincident intervals on each side; the rungs
+by this means are kept parallel and level.
+
+The rungs are placed 9 inches apart, and are from 1 in. to 1-1/2-in.
+in depth in the centre, decreasing to 5/8-inch diameter at the ends.
+The ends of the rungs are painted with red lead before insertion, and
+any projections are afterwards cut off flush with the sides. They can
+be fastened at each end with wedges (see fig. 63), or pins of 1/4-inch
+diameter can be cut through the sides, as fig. 64, to fix every fifth
+or sixth rung.
+
+The first method is the better, as cross boring of the sides greatly
+weakens them; but as the wedges may work out, an iron rod 5/16-inch in
+diameter should be placed below every eighth or ninth rung, and bolted
+on the outside for extra security.
+
+The iron rods should not be used as treads instead of the wooden rungs
+as they offer an insecure foothold. The rungs are considered to be
+dangerous for use when they have been reduced by wear to one half of
+their original depth. The best rungs are made from old wheel-spokes, as
+they are well seasoned. The sides, which may be of sufficient length
+to receive 100 rungs, are 9 inches apart at the top and from 12 to 13
+inches apart at the bottom, according to the length of the ladder.
+
+[Illustration: FIG. 63]
+
+[Illustration: FIG. 64]
+
+Extension ladders are useful where, owing to the varying heights of the
+work, different lengths of ladders are required. The two halves of the
+ladder are connected in various ways, but if well made they are easily
+raised and lowered. They should be used only for the very lightest
+work, such as painting, cleaning down, &c.
+
+
+=Trestles.=—Trestles are used chiefly by painters plasterers, and
+mechanics engaged on work that is not at a great height from the ground
+or floor level, and for which a platform is required. They stand from
+6 to 12 feet in height, and the rungs should be sufficiently wide to
+carry three boards for the working platform. They are made of yellow
+deal, with mortised joints and wrought-iron hinges (fig. 65).
+
+[Illustration: FIG. 65]
+
+
+=Steps.=—Steps are built up with two sides of the required height,
+about 5 inches wide and 1 inch thick; the top and bottom are sawn to a
+bevel so that they stand inclined.
+
+The steps, which are grooved into the sides and fixed with screws,
+are about 6 inches wide by 1-1/2 inches thick, and increase slightly
+in length as they descend. This increase adds to the stability of the
+steps as the width of the base is increased. The distance between each
+step is from 7 to 9 inches.
+
+At the back of the top step two legs about 2-1/2 inches wide by 

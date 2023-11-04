@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Constant HTML Traffic: pull files to create HTML traffic </title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="NiceLookingHtml.css">
+        <script>
+            startTime = "23"
+            const perfTableZZ = document.getElementById("uiPerfTable");
+            console.log("perfTable=" + perfTableZZ)
+
+            function download(filename) /* filename == "size___1k.txt" */
+            {
+                const perfTable = document.getElementById("uiPerfTable");
+                console.log("perfTable=" + perfTable)
+                startTime=new Date();
+                const req = new XMLHttpRequest();
+                req.addEventListener("load", (event) => 
+                    { 
+                        sizeKB=(event.loaded / (1024));
+                        sizeMB=(event.loaded / (1024*1024));
+                        deltaMS=(new Date()) - startTime;
+                        deltaS=deltaMS / 1000
+                        speedInMbs=(sizeMB*8) / (deltaS);
+                        console.log("Go it! size=" + sizeMB + " delta="+deltaMS +" speed="+speedInMbs); 
+                        var row = perfTable.insertRow(1);
+                        row.insertCell(0).innerHTML = HMS(startTime);
+                        row.insertCell(1).innerHTML = sizeKB.toFixed(1);
+                        row.insertCell(2).innerHTML = deltaMS;
+                        row.insertCell(3).innerHTML = speedInMbs.toFixed(3);
+                    });
+                req.open("GET", filename);
+                req.send();
+            }
+
+            function HMS(date)
+            {
+                var retval = NumPad(date.getHours(),2)
+                    + ":" + NumPad(date.getMinutes(), 2)
+                    + ":" + NumPad(date.getSeconds(), 2);
+                return retval;
+            }
+            function NumPad(number, padding)
+            {
+                var retval = ("00000000000000000" + number).slice(-padding);
+                return retval;
+            }
+        </script>
+    </head>
+    <body>
+        <h1>Get results! Press the button to start</h1>
+        <div>
+            <button onclick="download('size___1k.txt')" type="button" name="uiStart">1k!</button>
+            <button onclick="download('size__10k.txt')" type="button" name="uiStart">10k!</button>
+            <button onclick="download('size_100k.txt')" type="button" name="uiStart">100k!</button>
+            <button onclick="download('size1000k.txt')" type="button" name="uiStart">1000k!</button>
+
+        </div>
+
+        <table id="uiPerfTable" class="styled-table">
+            <thead>
+            <tr><th>Start</th><th>Size (kb)</th><th>Time (ms)</th><th>Speed (Mbs)</th></tr>
+            </thead>
+        </table>
+        
+        <div name="uiLog" class="log-text">
+        </div>
+        <aside>
+            <h1>Setting up the files and tools</h1>
+            This project uses IIS Express to serve files. There's less than 10 files total: an HTML file, some data files, and a run.bat and other ancilary files.
+    
+            <h2>IIS 10.0 Express</h2>
+            I'm following the <a href="https://learn.microsoft.com/en-us/iis/extensions/introduction-to-iis-express/iis-express-overview">instructions</a> on learn.microsoft.com.
+            <ol>
+                <li>Download <a href="https://www.microsoft.com/en-us/download/details.aspx?id=48264">IIS 10.0 Express</a>. Be **sure** to download the 64-bit version -- all of the x86 versions will fail on modern windows.</li>
+                <li>Install it in the obvious way</li>
+                <li>There's a <pre>run.bat</pre> file that runs IIS Express. Really, it just gives a path to this directory.</li>
+            </ol>
+
+            Contents of run.bat:
+            <pre>
+REM Runs IIS Express
+set IISEXPRESS="\Program Files (x86)\IIS Express\iisexpress"
+set WEBAPP="C:\HtmlApps\ConstantHTMLTraffic"
+
+%IISEXPRESS% /trace:info /path:%WEBAPP%
+            </pre>
+        </aside>
+    </body>
+</html>
