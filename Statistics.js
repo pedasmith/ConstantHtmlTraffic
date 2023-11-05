@@ -18,6 +18,7 @@ function CalculateStatistics(data)
     p90 = Interpolate(data, 0.90);
     p95 = Interpolate(data, 0.95);
     p99 = Interpolate(data, 0.99);
+    p995 = Interpolate(data, 0.995);
 
     return {
         'N': n,
@@ -28,6 +29,7 @@ function CalculateStatistics(data)
         'P90': p90,
         'P95': p95,
         'P99': p99,
+        'P995': p995,
         'Q1': q1,
         'Q3': q3,
         'Total': total,

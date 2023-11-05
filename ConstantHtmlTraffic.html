@@ -8,7 +8,7 @@
         <script src="Statistics.js" ></script>
         <script>
             var files = ['size___1k.txt', 'size__10k.txt', 'size_100k.txt', 'size1000k.txt']
-            const NTIMES = 500
+            const NTIMES = 1000
 
             function doOnload()
             {
@@ -29,7 +29,7 @@
                 const tbody = perfTable.tBodies[0]
                 const startTime=new Date();
 
-                const response  = await fetch(filename)
+                const response  = await fetch(filename, { cache: "no-store"});
                 const result = await response.arrayBuffer();
                 const len = result.byteLength
                 const sizeKB=(len / (1024));
@@ -49,11 +49,13 @@
 
             async function statisticsAsync (filename) /* filename == "size___1k.txt" */
             {
-                const perfDetails = document.getElementById("uiP90Details"); //.tBodies[0];
+                const perfDetails = document.getElementById("uiP90Details"); 
+                const perfProgress = document.getElementById("uiP90Progress"); 
                 const perfTable = document.getElementById("uiP90Table"); //.tBodies[0];
                 const tbody = perfTable.tBodies[0]
 
                 perfDetails.open = true;
+                perfProgress.max = NTIMES;
 
                 //const NTIMES = 50;
                 const resultsMS = [];
@@ -66,7 +68,7 @@
                 {
                     startTime=new Date();
 
-                    const response  = await fetch(filename)
+                    const response  = await fetch(filename, { cache: "no-store"})
                     const result = await response.arrayBuffer();
                     len = result.byteLength
                     sizeKB=(len / (1024));
@@ -77,6 +79,7 @@
                     resultsMS.push(deltaMS);
                     resultsSpeedInMbs.push(speedInMbs);
                     resultsLen.push(len);
+                    perfProgress.value = i+1;
                 }
                 results = CalculateStatistics (resultsMS);
                 console.log("Got it! results=" +JSON.stringify(results)); 
@@ -94,6 +97,7 @@
                 row.insertCell(col++).innerHTML = results.P90.toFixed(1);
                 row.insertCell(col++).innerHTML = results.P95.toFixed(1);
                 row.insertCell(col++).innerHTML = results.P99.toFixed(1);
+                row.insertCell(col++).innerHTML = results.P995.toFixed(1);
                 row.insertCell(col++).innerHTML = results.Max.toFixed(1);
             }
 
@@ -134,11 +138,13 @@
         </div>
         <details id="uiP90Details">
             <summary>Stats</summary>
+            <label for="file">Download progress:</label><progress id="uiP90Progress" max="100" value="0"></progress>
+
             <div id="uiP90Div" style="height:300px; overflow: auto;" >
                 <!-- I want the table to scroll -->
                 <table id="uiP90Table" class="styled-table" style="max-height:80%;">
                     <thead>
-                        <tr><th>Start</th><th>Size (kb)</th><th>N</th><th>Min</th><th>Q1</th><th>Mean</th><th>Median</th><th>Q3</th><th>P90</th><th>P95</th><th>P99</th><th>Max</th></tr>
+                        <tr><th>Start</th><th>Size (kb)</th><th>N</th><th>Min</th><th>Q1</th><th>Mean</th><th>Median</th><th>Q3</th><th>P90</th><th>P95</th><th>P99</th><th>P99.5</th><th>Max</th></tr>
                     </thead>
                     <tbody>
 
@@ -147,7 +153,7 @@
             </div>
         </details>
 
-        
+
         <h1>Manual test: Press a button to get a file</h1>
         <div>
             <button onclick="downloadAsync('size___1k.txt')" type="button" name="uiStart">1k!</button>
@@ -222,6 +228,11 @@ set WEBAPP="C:\HtmlApps\ConstantHTMLTraffic"
                 <li><tt>gh pr create</tt> might not actually be needed?</li>
                 <li><tt>git push</tt> to tell git you really, really care about the changes and they should be up in the cloud</li>
             </ol> 
+
+            <h2>Files have changed in the cloud, how to pull them down?</h2>
+            <ol>
+                <li>git pull origin main</li>
+            </ol>
         </aside>
 
         <aside>
@@ -232,14 +243,15 @@ set WEBAPP="C:\HtmlApps\ConstantHTMLTraffic"
                 <li>You'll need the IIS Express set up (see instructions above)</li>
                 <li>Get the current files with <tt>gh repo clone pedasmith/ConstantHtmlTraffic</tt>. CD to a good directory (like <tt>c:\\HtmlApps</tt>) and run the command. The result should be a directory c:\\HtmlApps\\ConstantHtmlTraffic with the run.bat file</li>
                 <li>In a cmd prompt, run "run.bat". This starts the IIS Express at the right directory</li>
-                <li>In a web browser, go to <a href="http://localhost:8080/ConstantHTMLTraffic.html">http://localhost:8080/ConstantHTMLTraffic.html</a></li>
+                <li>In a web browser, go to <a href="http://localhost:8085/ConstantHTMLTraffic.html">http://localhost:8085/ConstantHTMLTraffic.html</a></li>
                 <li>You'll see some resuts in the table</li>
             </ol>
 
             <h2>Testing over a network</h2>
-            By default, IIS Express doesn't work over the network. There's a couple of things you have to do to make it work.
+            By default, IIS Express doesn't work over the network. There's a couple of things you have to do to make it work. IN this example, the HOST is where IIS Express is running and DUT (device under test) is where the ConstantHtmlTraffic.html is being looked at. You will need to know the HOST IP address for the interface 
             <ol>
-                <li>Open the firewall! do all these commands
+                <li><b>HOST IP</b>: run the <tt>netsh interface ipv4 show addresses</tt> command.</li>
+                <li>On the HOST Open the firewall! do all these commands
                     <ol>
                         <li>Press Windows and type "firewall" and select the Firewall and network protection settings page</li>
                         <li>Click "advanced settings" to bring up the "Windows Defender Firewall with Advanced Security" page. This is an old-fashioned (vista-era) dialog</li>
