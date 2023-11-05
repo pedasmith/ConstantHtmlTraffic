@@ -107,6 +107,19 @@ set WEBAPP="C:\HtmlApps\ConstantHTMLTraffic"
 
 %IISEXPRESS% /trace:info /path:%WEBAPP%
             </pre>
+
+            <h2>Let's talk Config file</h2>
+            IIS Express uses an ".config" file for the configuation. It's an enormous file full of stuff, mostly with mediocre (or worse) documentation. For this project, I copied the <tt>C:\Program Files (x86)\IIS Express\config\templates\PersonalWebServer\applicationhost.config</tt> file to a local <tt>c:\HtmlApps\ConstantHtmlTraffic\ConstantHTMLTraffic.config</tt> file and made just a few changes:
+            <ol>
+                <li>Line 156: changed the <tt>site</tt> from "WebSite1" to "CHT"</li>
+                <li>Line 158: changed the <tt>virtualDirectory</tt> to "c:\HtmlApps\ConstantHtmlTraffic"</li>
+                <li>Line 161: changed the <tt>binding</tt> from ":8080:localhost" to ":8085:". This both updates the local port from 8080 to 8085 and also allows IIS Express to run the web site on all of the local interfaces, not just the localhost interface. The localhost interface can only serve traffic to on-box browsers and won't go over e.g., Wi-Fi..</li>
+            </ol>
+
+            <pre>
+
+            </pre>
+
         </aside>
 
         <aside>
