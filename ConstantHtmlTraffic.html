@@ -112,14 +112,28 @@ set WEBAPP="C:\HtmlApps\ConstantHTMLTraffic"
         <aside>
             <h1>Using GIT commands here</h1>
             Cheata sheet for git command line newbies like me.
-            <h2>I changed a file, now what?</h2>
+            <h2>I changed a file, now what How do I get it into the cloud github?</h2>
             <ol>
-                <li><pre>git diff</pre> to see files that you've changed</li>
-                <li><pre>git add FILENAME</pre> to tell git you care about the changes</li>
-                <li><pre>git commit</pre> to tell git you really care about the changes</li>
-                <li><pre>gh pr create</pre> might not actually be needed?</li>
-                <li><pre>git push</pre> to tell git you really, really care about the changes and they should be up in the cloud</li>
+                <li><tt>git diff</tt> to see files that you've changed</li>
+                <li><tt>git add FILENAME</tt> to tell git you care about the changes</li>
+                <li><tt>git commit</tt> to tell git you really care about the changes</li>
+                <li><tt>gh pr create</tt> might not actually be needed?</li>
+                <li><tt>git push</tt> to tell git you really, really care about the changes and they should be up in the cloud</li>
             </ol> 
+        </aside>
+
+        <aside>
+            <h1>Testing over Wi-Fi versus Mobile Hotspot</h1>
+
+            <h2>Testing locally</h2>
+            <ol>
+                <li>You'll need the IIS Express set up (see instructions above)</li>
+                <li>Get the current files with <tt>gh repo clone pedasmith/ConstantHtmlTraffic</tt>. CD to a good directory (like <tt>c:\\HtmlApps</tt>) and run the command. The result should be a directory c:\\HtmlApps\\ConstantHtmlTraffic with the run.bat file</li>
+                <li>In a cmd prompt, run "run.bat". This starts the IIS Express at the right directory</li>
+                <li>In a web browser, go to <a href="http://localhost:8080/ConstantHTMLTraffic.html">http://localhost:8080/ConstantHTMLTraffic.html</a></li>
+                <li>You'll see some resuts in the table</li>
+            </ol>
         </aside>
     </body>
 </html>
+ 
