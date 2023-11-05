@@ -1,38 +1,53 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Constant HTML Traffic: pull files to create HTML traffic </title>
+        <title>Constant HTML Traffic: download static files to create HTML traffic </title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta charset="utf-8">
         <link rel="stylesheet" href="NiceLookingHtml.css">
         <script>
             startTime = "23"
-            const perfTableZZ = document.getElementById("uiPerfTable");
-            console.log("perfTable=" + perfTableZZ)
+            var files = ['size___1k.txt', 'size__10k.txt', 'size_100k.txt', 'size1000k.txt']
 
-            function download(filename) /* filename == "size___1k.txt" */
+            function doOnload()
             {
-                const perfTable = document.getElementById("uiPerfTable");
+                automatic();
+            }
+
+
+            async function downloadAsync (filename) /* filename == "size___1k.txt" */
+            {
+                const perfTable = document.getElementById("uiPerfTable"); //.tBodies[0];
+                const tbody = perfTable.tBodies[0]
                 console.log("perfTable=" + perfTable)
                 startTime=new Date();
-                const req = new XMLHttpRequest();
-                req.addEventListener("load", (event) => 
-                    { 
-                        sizeKB=(event.loaded / (1024));
-                        sizeMB=(event.loaded / (1024*1024));
-                        deltaMS=(new Date()) - startTime;
-                        deltaS=deltaMS / 1000
-                        speedInMbs=(sizeMB*8) / (deltaS);
-                        console.log("Go it! size=" + sizeMB + " delta="+deltaMS +" speed="+speedInMbs); 
-                        var row = perfTable.insertRow(1);
-                        row.insertCell(0).innerHTML = HMS(startTime);
-                        row.insertCell(1).innerHTML = sizeKB.toFixed(1);
-                        row.insertCell(2).innerHTML = deltaMS;
-                        row.insertCell(3).innerHTML = speedInMbs.toFixed(3);
-                    });
-                req.open("GET", filename);
-                req.send();
+
+                const response  = await fetch(filename)
+                const result = await response.arrayBuffer();
+                len = result.byteLength
+                sizeKB=(len / (1024));
+                sizeMB=(len / (1024*1024));
+                deltaMS=(new Date()) - startTime;
+                deltaS=deltaMS / 1000
+                speedInMbs=(sizeMB*8) / (deltaS);
+                console.log("Go it! size=" + len + " delta="+deltaMS +" speed="+speedInMbs); 
+                var row = tbody.insertRow(0);
+                row.insertCell(0).innerHTML = HMS(startTime);
+                row.insertCell(1).innerHTML = sizeKB.toFixed(1);
+                row.insertCell(2).innerHTML = deltaMS;
+                row.insertCell(3).innerHTML = speedInMbs.toFixed(3);
             }
+            async function automatic()
+            {
+                for (var fileno = 0; fileno < files.length; fileno++)
+                {
+                    for (var i=0; i<5; i++)
+                    {
+                        const file = files[fileno];
+                        await downloadAsync(file)
+                    };
+                }
+           }
 
             function HMS(date)
             {
@@ -48,21 +63,27 @@
             }
         </script>
     </head>
-    <body>
+    <body onload="doOnload()">
         <h1>Manual test: Press a button to get a file</h1>
         <div>
-            <button onclick="download('size___1k.txt')" type="button" name="uiStart">1k!</button>
-            <button onclick="download('size__10k.txt')" type="button" name="uiStart">10k!</button>
-            <button onclick="download('size_100k.txt')" type="button" name="uiStart">100k!</button>
-            <button onclick="download('size1000k.txt')" type="button" name="uiStart">1000k!</button>
+            <button onclick="downloadAsync('size___1k.txt')" type="button" name="uiStart">1k!</button>
+            <button onclick="downloadAsync('size__10k.txt')" type="button" name="uiStart">10k!</button>
+            <button onclick="downloadAsync('size_100k.txt')" type="button" name="uiStart">100k!</button>
+            <button onclick="downloadAsync('size1000k.txt')" type="button" name="uiStart">1000k!</button>
 
         </div>
 
-        <table id="uiPerfTable" class="styled-table">
-            <thead>
-            <tr><th>Start</th><th>Size (kb)</th><th>Time (ms)</th><th>Speed (Mbs)</th></tr>
-            </thead>
-        </table>
+        <div style="height:300px; overflow: auto;" >
+            <!-- I want the table to scroll -->
+            <table id="uiPerfTable" class="styled-table" style="max-height:80%;">
+                <thead>
+                    <tr><th>Start</th><th>Size (kb)</th><th>Time (ms)</th><th>Speed (Mbs)</th></tr>
+                </thead>
+                <tbody>
+
+                </tbody>
+            </table>
+        </div>
         
         <div name="uiLog" class="log-text">
         </div>
@@ -86,6 +107,19 @@ set WEBAPP="C:\HtmlApps\ConstantHTMLTraffic"
 
 %IISEXPRESS% /trace:info /path:%WEBAPP%
             </pre>
+        </aside>
+
+        <aside>
+            <h1>Using GIT commands here</h1>
+            Cheata sheet for git command line newbies like me.
+            <h2>I changed a file, now what?</h2>
+            <ol>
+                <li><pre>git diff</pre> to see files that you've changed</li>
+                <li><pre>git add FILENAME</pre> to tell git you care about the changes</li>
+                <li><pre>git commit</pre> to tell git you really care about the changes</li>
+                <li><pre>gh pr create</pre> might not actually be needed?</li>
+                <li><pre>git push</pre> to tell git you really, really care about the changes and they should be up in the cloud</li>
+            </ol> 
         </aside>
     </body>
 </html>
