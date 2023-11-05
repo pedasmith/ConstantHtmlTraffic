@@ -133,6 +133,28 @@ set WEBAPP="C:\HtmlApps\ConstantHTMLTraffic"
                 <li>In a web browser, go to <a href="http://localhost:8080/ConstantHTMLTraffic.html">http://localhost:8080/ConstantHTMLTraffic.html</a></li>
                 <li>You'll see some resuts in the table</li>
             </ol>
+
+            <h2>Testing over a network</h2>
+            By default, IIS Express doesn't work over the network. There's a couple of things you have to do to make it work.
+            <ol>
+                <li>Open the firewall! do all these commands
+                    <ol>
+                        <li>Press Windows and type "firewall" and select the Firewall and network protection settings page</li>
+                        <li>Click "advanced settings" to bring up the "Windows Defender Firewall with Advanced Security" page. This is an old-fashioned (vista-era) dialog</li>
+                        <li>Click the "inbound rules" on the left-hand side. This will pop up an enormous list of rules</li>
+                        <li>Click the "Add new rule" to bring up the New Inbound Rule Wizard</li>
+                        <li>You want to add a PORT rule. Select Port and click next to bring up the Protocol and Ports page</li>
+                        <li>Select TCP and Specific Local Ports. Add the number 8085, the port we're going to run on, and click next to get to the Action page</li>
+                        <li>Select "Allow the connection" and click Next to get to the Profile page</li>
+                        <li>Allow in all types of networks (doman, private, public) and click Next to get to the Name page</li>
+                        <li>Type ConstantHtmlTraffic as the rule name and add a description and click FINISH</li>
+                        <li>Close the advanced setting program and the settings page</li>
+                    </ol>
+                </li>
+                <li>Make sure you have the updated config file. This is the default, and you don't have to do anything, but it's good to note that you do need the full .config file to make anything work.</li>
+                <li>Run the "run.bat" from an elevated command windows. Elevation is required to run over the non-localhost interfaces.</li>
+            </ol>
+            At this point the IIS Express server should be running and serving pages on all of the IP addresses.
         </aside>
     </body>
 </html>
