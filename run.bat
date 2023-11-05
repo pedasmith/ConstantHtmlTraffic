@@ -4,4 +4,5 @@ set WEBAPP="C:\HtmlApps\ConstantHTMLTraffic"
 
 REM Original command: %IISEXPRESS% /trace:info /path:%WEBAPP%
 REM CHT stands for ConstantHtmlTraffic
-%IISEXPRESS% /trace:info /config:ConstantHTMLTraffic.config /site:CHT
+REM /trace:info actually causes slowdowns in the stats!
+%IISEXPRESS% /trace:error /config:ConstantHTMLTraffic.config /site:CHT > delete_me.log

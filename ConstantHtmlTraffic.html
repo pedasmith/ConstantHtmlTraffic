@@ -5,38 +5,99 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta charset="utf-8">
         <link rel="stylesheet" href="NiceLookingHtml.css">
+        <script src="Statistics.js" ></script>
         <script>
-            startTime = "23"
             var files = ['size___1k.txt', 'size__10k.txt', 'size_100k.txt', 'size1000k.txt']
+            const NTIMES = 500
 
             function doOnload()
             {
-                automatic();
+                var nerror = 0;
+                nerror += Test_Interpolate();
+                if (nerror > 0)
+                {
+                    console.log("ERROR: nerror=" + nerror);
+                }
+                //automatic();
             }
 
 
             async function downloadAsync (filename) /* filename == "size___1k.txt" */
             {
+                const perfDetails = document.getElementById("uiPerfDetails");
                 const perfTable = document.getElementById("uiPerfTable"); //.tBodies[0];
                 const tbody = perfTable.tBodies[0]
-                console.log("perfTable=" + perfTable)
-                startTime=new Date();
+                const startTime=new Date();
 
                 const response  = await fetch(filename)
                 const result = await response.arrayBuffer();
-                len = result.byteLength
-                sizeKB=(len / (1024));
-                sizeMB=(len / (1024*1024));
-                deltaMS=(new Date()) - startTime;
-                deltaS=deltaMS / 1000
-                speedInMbs=(sizeMB*8) / (deltaS);
-                console.log("Go it! size=" + len + " delta="+deltaMS +" speed="+speedInMbs); 
+                const len = result.byteLength
+                const sizeKB=(len / (1024));
+                const sizeMB=(len / (1024*1024));
+                const deltaMS=(new Date()) - startTime;
+                const deltaS=deltaMS / 1000
+                const speedInMbs=(sizeMB*8) / (deltaS);
+                console.log("Got it! size=" + len + " delta="+deltaMS +" speed="+speedInMbs); 
                 var row = tbody.insertRow(0);
                 row.insertCell(0).innerHTML = HMS(startTime);
                 row.insertCell(1).innerHTML = sizeKB.toFixed(1);
                 row.insertCell(2).innerHTML = deltaMS;
                 row.insertCell(3).innerHTML = speedInMbs.toFixed(3);
+
+                perfDetails.open = true;
             }
+
+            async function statisticsAsync (filename) /* filename == "size___1k.txt" */
+            {
+                const perfDetails = document.getElementById("uiP90Details"); //.tBodies[0];
+                const perfTable = document.getElementById("uiP90Table"); //.tBodies[0];
+                const tbody = perfTable.tBodies[0]
+
+                perfDetails.open = true;
+
+                //const NTIMES = 50;
+                const resultsMS = [];
+                const resultsSpeedInMbs = [];
+                const resultsLen = [];
+                startTime=new Date();
+
+                var len = 0;
+                for (var i=0; i<NTIMES; i++)
+                {
+                    startTime=new Date();
+
+                    const response  = await fetch(filename)
+                    const result = await response.arrayBuffer();
+                    len = result.byteLength
+                    sizeKB=(len / (1024));
+                    sizeMB=(len / (1024*1024));
+                    deltaMS=(new Date()) - startTime;
+                    deltaS=deltaMS / 1000
+                    speedInMbs=(sizeMB*8) / (deltaS);
+                    resultsMS.push(deltaMS);
+                    resultsSpeedInMbs.push(speedInMbs);
+                    resultsLen.push(len);
+                }
+                results = CalculateStatistics (resultsMS);
+                console.log("Got it! results=" +JSON.stringify(results)); 
+
+                var row = tbody.insertRow(0);
+                var col = 0;
+                row.insertCell(col++).innerHTML = HMS(startTime);
+                row.insertCell(col++).innerHTML = Math.round(len / 1024);
+                row.insertCell(col++).innerHTML = NTIMES;
+                row.insertCell(col++).innerHTML = results.Min.toFixed(1);
+                row.insertCell(col++).innerHTML = results.Q1.toFixed(1);
+                row.insertCell(col++).innerHTML = results.Mean.toFixed(1);
+                row.insertCell(col++).innerHTML = results.Median.toFixed(1);
+                row.insertCell(col++).innerHTML = results.Q3.toFixed(1);
+                row.insertCell(col++).innerHTML = results.P90.toFixed(1);
+                row.insertCell(col++).innerHTML = results.P95.toFixed(1);
+                row.insertCell(col++).innerHTML = results.P99.toFixed(1);
+                row.insertCell(col++).innerHTML = results.Max.toFixed(1);
+            }
+
+
             async function automatic()
             {
                 for (var fileno = 0; fileno < files.length; fileno++)
@@ -64,6 +125,29 @@
         </script>
     </head>
     <body onload="doOnload()">
+        <h1>Statistics</h1>
+        <div>
+            <button onclick="statisticsAsync('size___1k.txt')" type="button" name="uiStart">1k!</button>
+            <button onclick="statisticsAsync('size__10k.txt')" type="button" name="uiStart">10k!</button>
+            <button onclick="statisticsAsync('size_100k.txt')" type="button" name="uiStart">100k!</button>
+            <button onclick="statisticsAsync('size1000k.txt')" type="button" name="uiStart">1000k!</button>
+        </div>
+        <details id="uiP90Details">
+            <summary>Stats</summary>
+            <div id="uiP90Div" style="height:300px; overflow: auto;" >
+                <!-- I want the table to scroll -->
+                <table id="uiP90Table" class="styled-table" style="max-height:80%;">
+                    <thead>
+                        <tr><th>Start</th><th>Size (kb)</th><th>N</th><th>Min</th><th>Q1</th><th>Mean</th><th>Median</th><th>Q3</th><th>P90</th><th>P95</th><th>P99</th><th>Max</th></tr>
+                    </thead>
+                    <tbody>
+
+                    </tbody>
+                </table>
+            </div>
+        </details>
+
+        
         <h1>Manual test: Press a button to get a file</h1>
         <div>
             <button onclick="downloadAsync('size___1k.txt')" type="button" name="uiStart">1k!</button>
@@ -73,17 +157,22 @@
 
         </div>
 
-        <div style="height:300px; overflow: auto;" >
-            <!-- I want the table to scroll -->
-            <table id="uiPerfTable" class="styled-table" style="max-height:80%;">
-                <thead>
-                    <tr><th>Start</th><th>Size (kb)</th><th>Time (ms)</th><th>Speed (Mbs)</th></tr>
-                </thead>
-                <tbody>
+        <details id="uiPerfDetails">
+            <summary>Individual download performance</summary>
+            <div id="uiPerfDiv" style="height:300px; overflow: auto;" >
+                <!-- I want the table to scroll -->
+                <table id="uiPerfTable" class="styled-table" style="max-height:80%;">
+                    <thead>
+                        <tr><th>Start</th><th>Size (kb)</th><th>Time (ms)</th><th>Speed (Mbs)</th></tr>
+                    </thead>
+                    <tbody>
 
-                </tbody>
-            </table>
-        </div>
+                    </tbody>
+                </table>
+            </div>
+        </details>  
+        
+
         
         <div name="uiLog" class="log-text">
         </div>
