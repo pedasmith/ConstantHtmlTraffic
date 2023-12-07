@@ -139,7 +139,7 @@
         <details id="uiP90Details">
             <summary>Stats</summary>
             <label for="file">Download progress:</label><progress id="uiP90Progress" max="100" value="0"></progress>
-
+            <div>Table of download performance statistics; values are times in milliseconds. A file is downloaded many times; the time for each download is measured in milliseconds. Then the results are run through some simple statistics to pull out the P90, P95, etc. percentages. The goal is to measure the variation in latency with a eye towards measuring the long tail of the download performance. You can pick smaller (1k) or larger (100k or 1000k) files to download. The time is the total download time (in ms).</div>
             <div id="uiP90Div" style="height:300px; overflow: auto;" >
                 <!-- I want the table to scroll -->
                 <table id="uiP90Table" class="styled-table" style="max-height:80%;">
@@ -162,6 +162,7 @@
             <button onclick="downloadAsync('size1000k.txt')" type="button" name="uiStart">1000k!</button>
 
         </div>
+        <div>Simple table of download performance for individual download attempts. Will display the file size as downloaded, the time to download in ms, and the speed in Mbps (that's mega-bits per second) </div>
 
         <details id="uiPerfDetails">
             <summary>Individual download performance</summary>
