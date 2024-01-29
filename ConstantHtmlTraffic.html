@@ -7,7 +7,7 @@
         <link rel="stylesheet" href="NiceLookingHtml.css">
         <script src="Statistics.js" ></script>
         <script>
-            var files = ['size___1k.txt', 'size__10k.txt', 'size_100k.txt', 'size1000k.txt']
+            var files = ['size___1k.zip', 'size__10k.zip', 'size_100k.zip', 'size1000k.zip']
             const NTIMES = 1000
 
             function doOnload()
@@ -22,7 +22,7 @@
             }
 
 
-            async function downloadAsync (filename) /* filename == "size___1k.txt" */
+            async function downloadAsync (filename) /* filename == "size___1k.zip" */
             {
                 const perfDetails = document.getElementById("uiPerfDetails");
                 const perfTable = document.getElementById("uiPerfTable"); //.tBodies[0];
@@ -47,7 +47,7 @@
                 perfDetails.open = true;
             }
 
-            async function statisticsAsync (filename) /* filename == "size___1k.txt" */
+            async function statisticsAsync (filename) /* filename == "size___1k.zip" */
             {
                 const perfDetails = document.getElementById("uiP90Details"); 
                 const perfProgress = document.getElementById("uiP90Progress"); 
@@ -131,10 +131,10 @@
     <body onload="doOnload()">
         <h1>Statistics</h1>
         <div>
-            <button onclick="statisticsAsync('size___1k.txt')" type="button" name="uiStart">1k!</button>
-            <button onclick="statisticsAsync('size__10k.txt')" type="button" name="uiStart">10k!</button>
-            <button onclick="statisticsAsync('size_100k.txt')" type="button" name="uiStart">100k!</button>
-            <button onclick="statisticsAsync('size1000k.txt')" type="button" name="uiStart">1000k!</button>
+            <button onclick="statisticsAsync('size___1k.zip')" type="button" name="uiStart">1k!</button>
+            <button onclick="statisticsAsync('size__10k.zip')" type="button" name="uiStart">10k!</button>
+            <button onclick="statisticsAsync('size_100k.zip')" type="button" name="uiStart">100k!</button>
+            <button onclick="statisticsAsync('size1000k.zip')" type="button" name="uiStart">1000k!</button>
         </div>
         <details id="uiP90Details">
             <summary>Stats</summary>
@@ -156,10 +156,10 @@
 
         <h1>Manual test: Press a button to get a file</h1>
         <div>
-            <button onclick="downloadAsync('size___1k.txt')" type="button" name="uiStart">1k!</button>
-            <button onclick="downloadAsync('size__10k.txt')" type="button" name="uiStart">10k!</button>
-            <button onclick="downloadAsync('size_100k.txt')" type="button" name="uiStart">100k!</button>
-            <button onclick="downloadAsync('size1000k.txt')" type="button" name="uiStart">1000k!</button>
+            <button onclick="downloadAsync('size___1k.zip')" type="button" name="uiStart">1k!</button>
+            <button onclick="downloadAsync('size__10k.zip')" type="button" name="uiStart">10k!</button>
+            <button onclick="downloadAsync('size_100k.zip')" type="button" name="uiStart">100k!</button>
+            <button onclick="downloadAsync('size1000k.zip')" type="button" name="uiStart">1000k!</button>
 
         </div>
         <div>Simple table of download performance for individual download attempts. Will display the file size as downloaded, the time to download in ms, and the speed in Mbps (that's mega-bits per second) </div>
